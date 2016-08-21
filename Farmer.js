@@ -2,7 +2,7 @@ import PokemonGO from 'pokemon-go-node-api'
 import getLocation from './utils/getLocation'
 
 export default class Farmer {
-  constructor (apiThrottling, hbThrottling) {
+  constructor (apiThrottling, hbThrottling, pokeballFlag) {
     this.trainer = new PokemonGO.Pokeio()
     this.apiThrottling = apiThrottling
     this.heartbeatThrottling = hbThrottling
@@ -13,6 +13,7 @@ export default class Farmer {
       inProgress: false
     }
     this.targets = []
+    this.pokeballFlag = pokeballFlag
   }
 
   login (username, password, location, provider) {
@@ -96,7 +97,7 @@ export default class Farmer {
         }
         let commands = []
         commands.push({
-          executor: buildExecutor(this.trainer.CatchPokemon, [currentPokemon, 1, 1.950, 1, 1]),
+          executor: buildExecutor(this.trainer.CatchPokemon, [currentPokemon, 1, 1.950, 1, this.pokeballFlag]),
           then: this.catchLoop(currentPokemon)
         })
         this.addNewCommands(commands)
@@ -107,13 +108,13 @@ export default class Farmer {
   catchLoop (currentPokemon) {
     return (result) => {
       if (result.Status === 2) {
+        console.log('Dodged, try agin')
         let commands = []
         commands.push({
-          executor: buildExecutor(this.trainer.CatchPokemon, [currentPokemon, 1, 1.950, 1, 1]),
+          executor: buildExecutor(this.trainer.CatchPokemon, [currentPokemon, 1, 1.950, 1, this.pokeballFlag]),
           then: this.catchLoop(currentPokemon)
         })
         this.addNewCommands(commands)
-        console.log('Dodged, try agin')
       } else if (result.Status === 1 || result.Status === 3) {
         if (result.Status === 1) {
           console.log('Caught')

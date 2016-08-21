@@ -1,0 +1,5575 @@
+{
+  "pokestops": [
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698901868,
+      "latitude": 40.779258,
+      "longitude": -73.963233,
+      "lure_expiration": null,
+      "pokestop_id": "e61b5ab2b8e44cc6bc8123e925c1de96.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471536637181,
+      "latitude": 40.775901,
+      "longitude": -73.961578,
+      "lure_expiration": null,
+      "pokestop_id": "a6b031607d5c4967943c9c20bdcf3b5d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471571833352,
+      "latitude": 40.774555,
+      "longitude": -73.961879,
+      "lure_expiration": null,
+      "pokestop_id": "7373297b14bd44a49a1de1258651e974.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697316540,
+      "latitude": 40.778699,
+      "longitude": -73.962714,
+      "lure_expiration": null,
+      "pokestop_id": "3f5de9a24a3c407c920a93953ebac95e.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702941139,
+      "latitude": 40.77859,
+      "longitude": -73.96379,
+      "lure_expiration": 1471704741139,
+      "pokestop_id": "4de0498e9c0e4670a0640b574787f772.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471682574182,
+      "latitude": 40.778006,
+      "longitude": -73.963424,
+      "lure_expiration": null,
+      "pokestop_id": "24bb2e62e8f4445095f4e79170cd991c.11"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702577052,
+      "latitude": 40.778172,
+      "longitude": -73.964018,
+      "lure_expiration": 1471704377052,
+      "pokestop_id": "8b48ceef8de74ce5a7ece50b0f2e8734.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471568833554,
+      "latitude": 40.77657,
+      "longitude": -73.96234,
+      "lure_expiration": null,
+      "pokestop_id": "47ca3575ebd046d88c277b53f8e59046.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702664042,
+      "latitude": 40.778175,
+      "longitude": -73.964637,
+      "lure_expiration": 1471704464042,
+      "pokestop_id": "3cdb06040af8453e8c6eaa10fe9236a9.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471604184027,
+      "latitude": 40.777241,
+      "longitude": -73.96334,
+      "lure_expiration": null,
+      "pokestop_id": "f6d39a72f2a04af586b1f75f9ecb9b68.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471614257216,
+      "latitude": 40.775519,
+      "longitude": -73.960866,
+      "lure_expiration": null,
+      "pokestop_id": "83d4c8955b7549349a04fff657da513e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471678244922,
+      "latitude": 40.777592,
+      "longitude": -73.963963,
+      "lure_expiration": null,
+      "pokestop_id": "441f5e05abad4e2ab90e39f5a6135d15.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471546675532,
+      "latitude": 40.777466,
+      "longitude": -73.964906,
+      "lure_expiration": null,
+      "pokestop_id": "5aef52e47c114a8ebc3f7d02962a6eab.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702877894,
+      "latitude": 40.778429,
+      "longitude": -73.964099,
+      "lure_expiration": 1471704677894,
+      "pokestop_id": "8a149a1a530c4905ac19d9acf284b01a.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471557348730,
+      "latitude": 40.776358,
+      "longitude": -73.961454,
+      "lure_expiration": null,
+      "pokestop_id": "dceaa592f1a74c1598aa3caa1cc0fd55.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668584774,
+      "latitude": 40.779402,
+      "longitude": -73.964957,
+      "lure_expiration": null,
+      "pokestop_id": "2ece87d0fbc44547bee3396df5c498d0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471654119883,
+      "latitude": 40.775757,
+      "longitude": -73.960224,
+      "lure_expiration": null,
+      "pokestop_id": "c12023faa1eb4f3cac66f78eff4b91d6.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703914465,
+      "latitude": 40.775824,
+      "longitude": -73.962314,
+      "lure_expiration": 1471705714465,
+      "pokestop_id": "65f0346a77f24d2bacb1c97ae125cb23.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471656460997,
+      "latitude": 40.77775,
+      "longitude": -73.962997,
+      "lure_expiration": null,
+      "pokestop_id": "3f9dab4e6bfa4cd3804ff08e5849136d.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703631754,
+      "latitude": 40.779143,
+      "longitude": -73.964113,
+      "lure_expiration": 1471705431754,
+      "pokestop_id": "dea53c676fde4e4a8569a6df6969a36d.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704282930,
+      "latitude": 40.779079,
+      "longitude": -73.962675,
+      "lure_expiration": 1471706082930,
+      "pokestop_id": "0922df5ca4bc4532b765fba7a10501c1.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471631398201,
+      "latitude": 40.77867,
+      "longitude": -73.965031,
+      "lure_expiration": null,
+      "pokestop_id": "5b347568c9244496bdd76ce469dbe587.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703931454,
+      "latitude": 40.775536,
+      "longitude": -73.962168,
+      "lure_expiration": 1471705731454,
+      "pokestop_id": "12c399a905f24b65b51d5390370008ea.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471283289830,
+      "latitude": 40.772637,
+      "longitude": -73.96123,
+      "lure_expiration": null,
+      "pokestop_id": "38c1a46830dc48e996665966de0f8deb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471548074144,
+      "latitude": 40.767628,
+      "longitude": -73.961801,
+      "lure_expiration": null,
+      "pokestop_id": "51fb7684c4cf44e9b44685e1a2b72fa2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471368911227,
+      "latitude": 40.770284,
+      "longitude": -73.961561,
+      "lure_expiration": null,
+      "pokestop_id": "d012182445de417d8838e6f3b097f67e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471618207663,
+      "latitude": 40.767946,
+      "longitude": -73.960647,
+      "lure_expiration": null,
+      "pokestop_id": "693f971ecab44b09ab4ad1c7b29d2755.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471625562566,
+      "latitude": 40.76999,
+      "longitude": -73.9623,
+      "lure_expiration": null,
+      "pokestop_id": "94c8befc7b764f378dcc81ca6447a37a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471636935565,
+      "latitude": 40.764839,
+      "longitude": -73.961026,
+      "lure_expiration": null,
+      "pokestop_id": "0ee6a9b6764f444984e3a9c5aa809cfd.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471607008876,
+      "latitude": 40.772121,
+      "longitude": -73.959977,
+      "lure_expiration": null,
+      "pokestop_id": "402650a80ccc4d9bbdabbe83a6f197f4.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471140834775,
+      "latitude": 40.771911,
+      "longitude": -73.961414,
+      "lure_expiration": null,
+      "pokestop_id": "06c84b74167f410aa7c80d65ab313558.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471582918790,
+      "latitude": 40.774126,
+      "longitude": -73.960804,
+      "lure_expiration": null,
+      "pokestop_id": "bbc10d54557445b48e9f72e50b425add.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471420813284,
+      "latitude": 40.766053,
+      "longitude": -73.961504,
+      "lure_expiration": null,
+      "pokestop_id": "33fd5179e83e48a6a6a494431b34dc64.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471692458675,
+      "latitude": 40.764883,
+      "longitude": -73.962406,
+      "lure_expiration": null,
+      "pokestop_id": "fb881c15e21f425ea04e6aad59426067.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644164185,
+      "latitude": 40.771362,
+      "longitude": -73.961656,
+      "lure_expiration": null,
+      "pokestop_id": "81fc3cd892734a2db3807bb9e4b6bbff.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698364826,
+      "latitude": 40.774282,
+      "longitude": -73.962301,
+      "lure_expiration": null,
+      "pokestop_id": "4370157dcae94a4581c96a0f75dc1815.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471654492300,
+      "latitude": 40.767642,
+      "longitude": -73.959876,
+      "lure_expiration": null,
+      "pokestop_id": "02f84532f1164c62b1ca627c334298d3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471622661797,
+      "latitude": 40.767272,
+      "longitude": -73.962097,
+      "lure_expiration": null,
+      "pokestop_id": "8f294ff3c89f428f997a58c480dacf46.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668054419,
+      "latitude": 40.77289,
+      "longitude": -73.960267,
+      "lure_expiration": null,
+      "pokestop_id": "1de6194002cc47caad79f8d48fb7d7f3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471417788028,
+      "latitude": 40.769839,
+      "longitude": -73.960291,
+      "lure_expiration": null,
+      "pokestop_id": "6a4adacc36b74bbba1b95e7c88bcc1f2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471310835472,
+      "latitude": 40.7727,
+      "longitude": -73.959786,
+      "lure_expiration": null,
+      "pokestop_id": "00b41851b4124955956832681d574aa2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471669385411,
+      "latitude": 40.773411,
+      "longitude": -73.961105,
+      "lure_expiration": null,
+      "pokestop_id": "065a491561164d57bbdfe9daf58ee52b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471631935441,
+      "latitude": 40.772212,
+      "longitude": -73.962146,
+      "lure_expiration": null,
+      "pokestop_id": "0a7b84b2a6ea4f1daf478c7e36f04769.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471613088073,
+      "latitude": 40.766672,
+      "longitude": -73.961526,
+      "lure_expiration": null,
+      "pokestop_id": "a098c5f16cdd4b6d867fd367f1262585.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471467571472,
+      "latitude": 40.765197,
+      "longitude": -73.959909,
+      "lure_expiration": null,
+      "pokestop_id": "f0772d4e6885456a964f5c32d5be20c1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471647131879,
+      "latitude": 40.768448,
+      "longitude": -73.960842,
+      "lure_expiration": null,
+      "pokestop_id": "10c64299e9be4b618ccf50fe868fdfc0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661211545,
+      "latitude": 40.768752,
+      "longitude": -73.960578,
+      "lure_expiration": null,
+      "pokestop_id": "b63478afc2c048639e440a59069d1451.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471386736013,
+      "latitude": 40.770117,
+      "longitude": -73.961843,
+      "lure_expiration": null,
+      "pokestop_id": "9461ace8ed1c4be6953de26c5212dc0a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471631773128,
+      "latitude": 40.772218,
+      "longitude": -73.960229,
+      "lure_expiration": null,
+      "pokestop_id": "fa52d6954f5e4a17b0001dbbd7313c72.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471622451396,
+      "latitude": 40.767922,
+      "longitude": -73.960089,
+      "lure_expiration": null,
+      "pokestop_id": "6f41f37f880d4e609c5d135c44d3da8f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471609333317,
+      "latitude": 40.768665,
+      "longitude": -73.962346,
+      "lure_expiration": null,
+      "pokestop_id": "bff4a3ccd52f4751b775a8616d822dd6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471488827452,
+      "latitude": 40.766828,
+      "longitude": -73.961897,
+      "lure_expiration": null,
+      "pokestop_id": "70137639cbeb497ea45683d049e5df53.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471614382580,
+      "latitude": 40.768754,
+      "longitude": -73.960104,
+      "lure_expiration": null,
+      "pokestop_id": "5aada5226e9d4833aa014e9657eadee5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686294295,
+      "latitude": 40.761638,
+      "longitude": -73.981273,
+      "lure_expiration": null,
+      "pokestop_id": "615de11d28584c7198c72af1fe90f207.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685545877,
+      "latitude": 40.76176,
+      "longitude": -73.979409,
+      "lure_expiration": null,
+      "pokestop_id": "c5ede557ab1b42239ffa44125052a885.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637903993,
+      "latitude": 40.760588,
+      "longitude": -73.975935,
+      "lure_expiration": null,
+      "pokestop_id": "7442b881eec44ff0999277fc994d42ed.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471657878787,
+      "latitude": 40.759447,
+      "longitude": -73.977255,
+      "lure_expiration": null,
+      "pokestop_id": "053f864f21bf4c73b0956130c0826cad.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702085511,
+      "latitude": 40.760171,
+      "longitude": -73.979693,
+      "lure_expiration": null,
+      "pokestop_id": "4d42c076b8034fd9a35cda917b9ae2c5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644951519,
+      "latitude": 40.761496,
+      "longitude": -73.977031,
+      "lure_expiration": null,
+      "pokestop_id": "bf6a54badd144833be1e580a5f236bfa.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471640682158,
+      "latitude": 40.76132,
+      "longitude": -73.980469,
+      "lure_expiration": null,
+      "pokestop_id": "83dfd3d072804185996bb62dee3c40a5.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471636603309,
+      "latitude": 40.761201,
+      "longitude": -73.97397,
+      "lure_expiration": null,
+      "pokestop_id": "ba7d0a2324654f76b33a088872130024.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661788856,
+      "latitude": 40.762174,
+      "longitude": -73.965922,
+      "lure_expiration": null,
+      "pokestop_id": "ff99c21a616c4e81b88b5ce74d983cd8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664329353,
+      "latitude": 40.761822,
+      "longitude": -73.978812,
+      "lure_expiration": null,
+      "pokestop_id": "635f5e805d4d4a659814029b736a0924.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471658312206,
+      "latitude": 40.758913,
+      "longitude": -73.971283,
+      "lure_expiration": null,
+      "pokestop_id": "0409714f72aa44adb0336675817c1285.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471539985958,
+      "latitude": 40.760142,
+      "longitude": -73.971575,
+      "lure_expiration": null,
+      "pokestop_id": "9a8291683e1d4662970d29d98264347b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699416264,
+      "latitude": 40.7625,
+      "longitude": -73.96517,
+      "lure_expiration": null,
+      "pokestop_id": "7f29961965484da58a67feb321919cd0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471678683740,
+      "latitude": 40.760235,
+      "longitude": -73.974001,
+      "lure_expiration": null,
+      "pokestop_id": "0b358dd3f05d41a2952b92b1f3254f20.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663638093,
+      "latitude": 40.761133,
+      "longitude": -73.978286,
+      "lure_expiration": null,
+      "pokestop_id": "21af0d5c393e408a8e973a68bb6251de.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471675261162,
+      "latitude": 40.761009,
+      "longitude": -73.981328,
+      "lure_expiration": null,
+      "pokestop_id": "97d9f7b7ea9745268313605593b54def.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471660777335,
+      "latitude": 40.76058,
+      "longitude": -73.982849,
+      "lure_expiration": null,
+      "pokestop_id": "148dbe8cc54b489db4679676997ac327.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471619125415,
+      "latitude": 40.759749,
+      "longitude": -73.972109,
+      "lure_expiration": null,
+      "pokestop_id": "6508c72da5224e0188c2d4e3e70cab8c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471319792936,
+      "latitude": 40.762858,
+      "longitude": -73.963663,
+      "lure_expiration": null,
+      "pokestop_id": "94c665ed599a4fc4b2235a45cf905111.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471692094407,
+      "latitude": 40.760193,
+      "longitude": -73.979413,
+      "lure_expiration": null,
+      "pokestop_id": "b7311575e754488990d9642d439ab27f.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702923770,
+      "latitude": 40.762157,
+      "longitude": -73.967768,
+      "lure_expiration": 1471704723770,
+      "pokestop_id": "2c045eec947c4de482d98905d753bce5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471581535443,
+      "latitude": 40.760068,
+      "longitude": -73.976809,
+      "lure_expiration": null,
+      "pokestop_id": "62c510d45cd9425b8a995bbe4d62b1ec.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471634108704,
+      "latitude": 40.761249,
+      "longitude": -73.976121,
+      "lure_expiration": null,
+      "pokestop_id": "bed5ec23fb29425dae19569397161161.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701200979,
+      "latitude": 40.760359,
+      "longitude": -73.978003,
+      "lure_expiration": null,
+      "pokestop_id": "62f9bd7bdfb2474b8d70e360a1816749.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703797512,
+      "latitude": 40.760597,
+      "longitude": -73.976666,
+      "lure_expiration": 1471705597512,
+      "pokestop_id": "ef9fa2c5cbb74a318a6d6852c7ee351e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471629366752,
+      "latitude": 40.759609,
+      "longitude": -73.973675,
+      "lure_expiration": null,
+      "pokestop_id": "96045dd6bff543dbbc18a4e415705be8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471628250630,
+      "latitude": 40.760422,
+      "longitude": -73.968218,
+      "lure_expiration": null,
+      "pokestop_id": "2ec5d2c24e3d4631b25d083cd5d48aed.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471613229416,
+      "latitude": 40.760417,
+      "longitude": -73.98023,
+      "lure_expiration": null,
+      "pokestop_id": "40d8febaf79e4a558b012b76836ebdd7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471632911934,
+      "latitude": 40.76396,
+      "longitude": -73.962787,
+      "lure_expiration": null,
+      "pokestop_id": "956fc25106174bee96b8bdfe1ee8cb26.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471646527778,
+      "latitude": 40.760239,
+      "longitude": -73.975177,
+      "lure_expiration": null,
+      "pokestop_id": "db3911e7e2fb4487bb5df412cda2a733.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651776836,
+      "latitude": 40.760369,
+      "longitude": -73.967274,
+      "lure_expiration": null,
+      "pokestop_id": "acdfed6627a24bd9b5384ebe2ee2a3fe.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697691372,
+      "latitude": 40.76134,
+      "longitude": -73.967802,
+      "lure_expiration": null,
+      "pokestop_id": "63216462b41448b0ae1d8b6f93d062f1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637547685,
+      "latitude": 40.759569,
+      "longitude": -73.974491,
+      "lure_expiration": null,
+      "pokestop_id": "e3c54a20632c4c03973262d7f6096343.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471383966911,
+      "latitude": 40.763157,
+      "longitude": -73.96486,
+      "lure_expiration": null,
+      "pokestop_id": "eb2616ff2e0944169ec8cf5b5a8f2193.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698506290,
+      "latitude": 40.758749,
+      "longitude": -73.973081,
+      "lure_expiration": null,
+      "pokestop_id": "65a2f463fbcc430c8c62921f41091451.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703907494,
+      "latitude": 40.761851,
+      "longitude": -73.982214,
+      "lure_expiration": 1471705707494,
+      "pokestop_id": "c470931fb9684f37a53b203fe81ffee6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695122005,
+      "latitude": 40.75926,
+      "longitude": -73.976434,
+      "lure_expiration": null,
+      "pokestop_id": "2260b13eb7f94379a9655d5f5db9b815.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471667594763,
+      "latitude": 40.759692,
+      "longitude": -73.97251,
+      "lure_expiration": null,
+      "pokestop_id": "372873f1c6eb432080a6a50b90361f13.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471647436963,
+      "latitude": 40.760903,
+      "longitude": -73.977336,
+      "lure_expiration": null,
+      "pokestop_id": "fdabf73b239149c6b1d001ede557fc2e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471632625703,
+      "latitude": 40.760754,
+      "longitude": -73.974899,
+      "lure_expiration": null,
+      "pokestop_id": "47f2f9f1acd242c8bb9897e0466757be.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698591776,
+      "latitude": 40.762054,
+      "longitude": -73.982709,
+      "lure_expiration": null,
+      "pokestop_id": "3cd2573b8bde4a5dae645c75041e0bd3.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703453312,
+      "latitude": 40.75957,
+      "longitude": -73.978003,
+      "lure_expiration": 1471705253312,
+      "pokestop_id": "cd3d9a38ccbd40f8b2e37fa4ea851df3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471626906413,
+      "latitude": 40.764365,
+      "longitude": -73.963692,
+      "lure_expiration": null,
+      "pokestop_id": "0c3a07183efd4c5eabc6e70cdaecd366.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471633382672,
+      "latitude": 40.760994,
+      "longitude": -73.966814,
+      "lure_expiration": null,
+      "pokestop_id": "64aa413177b04494a4b0df164b5a30a2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637464062,
+      "latitude": 40.760318,
+      "longitude": -73.973147,
+      "lure_expiration": null,
+      "pokestop_id": "e832b301ab7a495c9259b8b3348626ce.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471655805595,
+      "latitude": 40.760348,
+      "longitude": -73.982169,
+      "lure_expiration": null,
+      "pokestop_id": "c3aa5f44cb1d439795649f55f14490fb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697657720,
+      "latitude": 40.761379,
+      "longitude": -73.982853,
+      "lure_expiration": null,
+      "pokestop_id": "e155687f70904feab9bc4df61f87b467.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471654341175,
+      "latitude": 40.760353,
+      "longitude": -73.974188,
+      "lure_expiration": null,
+      "pokestop_id": "09ca7bad34964cf7b25e4c699c8af81d.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702623753,
+      "latitude": 40.762361,
+      "longitude": -73.967205,
+      "lure_expiration": 1471704423753,
+      "pokestop_id": "da5f5fbed8684f4e820e416954a70e68.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471693438036,
+      "latitude": 40.760808,
+      "longitude": -73.97538,
+      "lure_expiration": null,
+      "pokestop_id": "444a9feb111146848694bc2f24e631fe.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471642174755,
+      "latitude": 40.760501,
+      "longitude": -73.966816,
+      "lure_expiration": null,
+      "pokestop_id": "e7384aecf82c468980cf549b50d3338c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663637360,
+      "latitude": 40.762746,
+      "longitude": -73.963434,
+      "lure_expiration": null,
+      "pokestop_id": "17a6242e8f6740c28720d9c50618639b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635709720,
+      "latitude": 40.760729,
+      "longitude": -73.972483,
+      "lure_expiration": null,
+      "pokestop_id": "d14a7c622cca4ab087a60dbef665f01a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471694117377,
+      "latitude": 40.758669,
+      "longitude": -73.97264,
+      "lure_expiration": null,
+      "pokestop_id": "a423a2c5da844cf9bfb6f78c2eadd030.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664415484,
+      "latitude": 40.759593,
+      "longitude": -73.976247,
+      "lure_expiration": null,
+      "pokestop_id": "f867498de28a466892557d4a3440e8bd.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699962971,
+      "latitude": 40.761361,
+      "longitude": -73.981574,
+      "lure_expiration": null,
+      "pokestop_id": "3d56f4fe8213411b80c09dc043d894ff.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701859917,
+      "latitude": 40.762476,
+      "longitude": -73.967831,
+      "lure_expiration": null,
+      "pokestop_id": "7cb4b7e264ef411db0b8c1901e87d39a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471566730949,
+      "latitude": 40.759324,
+      "longitude": -73.973023,
+      "lure_expiration": null,
+      "pokestop_id": "984a835ff7184c9a98ef2a1518581d25.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471648079459,
+      "latitude": 40.760372,
+      "longitude": -73.977464,
+      "lure_expiration": null,
+      "pokestop_id": "51cd96215dba4bd5847af12ee76f1e67.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644903728,
+      "latitude": 40.761341,
+      "longitude": -73.977784,
+      "lure_expiration": null,
+      "pokestop_id": "8d3918da94f241368e1394d770ab7490.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697389657,
+      "latitude": 40.779688,
+      "longitude": -73.980304,
+      "lure_expiration": null,
+      "pokestop_id": "63c42a669e214c0fa3b7f9f804c86396.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702978765,
+      "latitude": 40.771632,
+      "longitude": -73.979476,
+      "lure_expiration": 1471704778765,
+      "pokestop_id": "132a3d49790a4488857e3f3b9c6ab8cd.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703440638,
+      "latitude": 40.772135,
+      "longitude": -73.967793,
+      "lure_expiration": 1471705240638,
+      "pokestop_id": "471cd3f0f6a84286bd6b2d52a6922146.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471618305074,
+      "latitude": 40.767897,
+      "longitude": -73.963836,
+      "lure_expiration": null,
+      "pokestop_id": "6f2991ff835e49148e9ec7b764d0c4a0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471541318264,
+      "latitude": 40.767382,
+      "longitude": -73.966533,
+      "lure_expiration": null,
+      "pokestop_id": "911a525255344163b0fbece7544fc16d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471656635359,
+      "latitude": 40.781179,
+      "longitude": -73.979974,
+      "lure_expiration": null,
+      "pokestop_id": "edfd5966598e43b4807259a3cf98f30d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659181317,
+      "latitude": 40.772482,
+      "longitude": -73.983195,
+      "lure_expiration": null,
+      "pokestop_id": "d334aef5818947e2a8b39dc81f96290d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701077126,
+      "latitude": 40.780622,
+      "longitude": -73.975955,
+      "lure_expiration": null,
+      "pokestop_id": "1f3d717eedf24ced876208fbbabfb69b.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704276204,
+      "latitude": 40.765173,
+      "longitude": -73.974201,
+      "lure_expiration": 1471706076204,
+      "pokestop_id": "a3f9207c84e641548f2441ad05b12db3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685750038,
+      "latitude": 40.762632,
+      "longitude": -73.974051,
+      "lure_expiration": null,
+      "pokestop_id": "3220e1877e7c4f6bb7aee9b49152ad5b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690895900,
+      "latitude": 40.771328,
+      "longitude": -73.9679,
+      "lure_expiration": null,
+      "pokestop_id": "ebd66555f1ef44f18c28e96d6c1d3c50.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471683079430,
+      "latitude": 40.774468,
+      "longitude": -73.967766,
+      "lure_expiration": null,
+      "pokestop_id": "319a60df2ad94d36868af919e127a293.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471558165086,
+      "latitude": 40.780392,
+      "longitude": -73.978053,
+      "lure_expiration": null,
+      "pokestop_id": "3adbf69560774e38a65e721f33c25047.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471693076905,
+      "latitude": 40.779555,
+      "longitude": -73.973364,
+      "lure_expiration": null,
+      "pokestop_id": "02bef9bc6061483589743929a5630b54.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471628249067,
+      "latitude": 40.771299,
+      "longitude": -73.98354,
+      "lure_expiration": null,
+      "pokestop_id": "0a22c483205d4e919e68cfa6faa9c510.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635965584,
+      "latitude": 40.762009,
+      "longitude": -73.969277,
+      "lure_expiration": null,
+      "pokestop_id": "678ef712b78642d1b644e83f655f29f4.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471589315420,
+      "latitude": 40.770183,
+      "longitude": -73.987999,
+      "lure_expiration": null,
+      "pokestop_id": "3c4c39d034684241bbf3715ede09f55b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471527352594,
+      "latitude": 40.77656,
+      "longitude": -73.963,
+      "lure_expiration": null,
+      "pokestop_id": "aa5f4063f3e349c580cd0fac2c4f5028.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471572635051,
+      "latitude": 40.765112,
+      "longitude": -73.963032,
+      "lure_expiration": null,
+      "pokestop_id": "60b7e067df954d9891221d12267b1f37.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700564989,
+      "latitude": 40.767563,
+      "longitude": -73.984509,
+      "lure_expiration": null,
+      "pokestop_id": "9f8354240d74470d9d42e8ce447ef699.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471692578111,
+      "latitude": 40.769119,
+      "longitude": -73.973843,
+      "lure_expiration": null,
+      "pokestop_id": "90648838a4a54169bc73c590c042c685.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703101917,
+      "latitude": 40.769462,
+      "longitude": -73.970497,
+      "lure_expiration": 1471704901917,
+      "pokestop_id": "56cc65329a5440a6865d982ed0663336.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668539549,
+      "latitude": 40.765116,
+      "longitude": -73.984835,
+      "lure_expiration": null,
+      "pokestop_id": "4232bb04d88c491288134d40af03cbed.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696091581,
+      "latitude": 40.775458,
+      "longitude": -73.974869,
+      "lure_expiration": null,
+      "pokestop_id": "7179c86b62554d92966fb3140a1885cf.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700482285,
+      "latitude": 40.778982,
+      "longitude": -73.966653,
+      "lure_expiration": null,
+      "pokestop_id": "627deffe15bd4200a1d001b6663c847f.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471616515483,
+      "latitude": 40.780636,
+      "longitude": -73.978679,
+      "lure_expiration": null,
+      "pokestop_id": "c1b9a3418ea6492582163561cec06edb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471643301192,
+      "latitude": 40.766033,
+      "longitude": -73.981658,
+      "lure_expiration": null,
+      "pokestop_id": "e6ecfda213814b3f8f128b15481f391e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471531057723,
+      "latitude": 40.773192,
+      "longitude": -73.984577,
+      "lure_expiration": null,
+      "pokestop_id": "63948673cda64e7fb563510f1bf5c72e.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701624741,
+      "latitude": 40.772224,
+      "longitude": -73.973807,
+      "lure_expiration": null,
+      "pokestop_id": "84cb6f3286404766897d04214121e758.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702043474,
+      "latitude": 40.77164,
+      "longitude": -73.971728,
+      "lure_expiration": null,
+      "pokestop_id": "9f1e301631f143558f8543400956d878.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702604618,
+      "latitude": 40.77482,
+      "longitude": -73.971159,
+      "lure_expiration": 1471704404618,
+      "pokestop_id": "4196b5e0d5364917adecbc92316c71df.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471647312407,
+      "latitude": 40.765023,
+      "longitude": -73.979333,
+      "lure_expiration": null,
+      "pokestop_id": "fc086cdf491d481b99af75ffe16fd9af.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699448515,
+      "latitude": 40.770089,
+      "longitude": -73.975602,
+      "lure_expiration": null,
+      "pokestop_id": "97066a68b7a74505bdad1d915f37c453.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471632842851,
+      "latitude": 40.77149,
+      "longitude": -73.964282,
+      "lure_expiration": null,
+      "pokestop_id": "f24f93c5cf6745d8afbb6065c142dab1.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637876260,
+      "latitude": 40.778606,
+      "longitude": -73.978837,
+      "lure_expiration": null,
+      "pokestop_id": "88ce3660a85a4c4aa18c3518f69fa55f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644843687,
+      "latitude": 40.761273,
+      "longitude": -73.971637,
+      "lure_expiration": null,
+      "pokestop_id": "dfb71445109f4023a79b4d367f83efc0.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703320369,
+      "latitude": 40.775178,
+      "longitude": -73.973963,
+      "lure_expiration": 1471705120369,
+      "pokestop_id": "3c1ba248de4040e3b5de5da2b318aec8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471646114395,
+      "latitude": 40.773145,
+      "longitude": -73.967804,
+      "lure_expiration": null,
+      "pokestop_id": "11936dee1f73483595dc3dfdde8ccdbb.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659045836,
+      "latitude": 40.773053,
+      "longitude": -73.981794,
+      "lure_expiration": null,
+      "pokestop_id": "dcccb4da9bdc479faa858247e03cc887.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697889531,
+      "latitude": 40.77679,
+      "longitude": -73.968756,
+      "lure_expiration": null,
+      "pokestop_id": "1e81bc5aabb04e01994981b9dca3cdcc.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471469240915,
+      "latitude": 40.776512,
+      "longitude": -73.980501,
+      "lure_expiration": null,
+      "pokestop_id": "549c92a4cc6f4e38bcf72eff7420e3a7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471648727092,
+      "latitude": 40.7686,
+      "longitude": -73.965237,
+      "lure_expiration": null,
+      "pokestop_id": "5fe86e56feec4a4a8c66eabb476fb3bb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471632183415,
+      "latitude": 40.770474,
+      "longitude": -73.984861,
+      "lure_expiration": null,
+      "pokestop_id": "03ece1cff82644d39e9d21c3a20813e4.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704309412,
+      "latitude": 40.779989,
+      "longitude": -73.967223,
+      "lure_expiration": 1471706109412,
+      "pokestop_id": "e2531000dafe484a84f78ef07a3dfaf8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471646684559,
+      "latitude": 40.7672,
+      "longitude": -73.970422,
+      "lure_expiration": null,
+      "pokestop_id": "a8cad34c0d0d4b0e9ddc37d1400b162d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471627307842,
+      "latitude": 40.76854,
+      "longitude": -73.96412,
+      "lure_expiration": null,
+      "pokestop_id": "85d2175c95bc40e69234d9df267b792f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697190019,
+      "latitude": 40.779734,
+      "longitude": -73.971964,
+      "lure_expiration": null,
+      "pokestop_id": "28e88d9570a04f2e91e1dc4ed25b5b8c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471677686513,
+      "latitude": 40.776883,
+      "longitude": -73.979461,
+      "lure_expiration": null,
+      "pokestop_id": "9a4f369ded874dd5b11e42006cb50819.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471660580803,
+      "latitude": 40.775768,
+      "longitude": -73.975212,
+      "lure_expiration": null,
+      "pokestop_id": "ceec7c63d9254998916cfb8ecb9b8e9f.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697325035,
+      "latitude": 40.766967,
+      "longitude": -73.984561,
+      "lure_expiration": null,
+      "pokestop_id": "e9cf21af2b6d40ba967c33da3979a330.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701531761,
+      "latitude": 40.768129,
+      "longitude": -73.971169,
+      "lure_expiration": null,
+      "pokestop_id": "c43b5242df1540e6973f1b580fb989db.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471613564415,
+      "latitude": 40.772929,
+      "longitude": -73.979798,
+      "lure_expiration": null,
+      "pokestop_id": "e2b90914bef24e37b1e1b6ef39b2aa17.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703959873,
+      "latitude": 40.777074,
+      "longitude": -73.971415,
+      "lure_expiration": 1471705759873,
+      "pokestop_id": "b69217f2d65742f3b1917643686e33c1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698637301,
+      "latitude": 40.761709,
+      "longitude": -73.970678,
+      "lure_expiration": null,
+      "pokestop_id": "b682e313443245efa14cf6cef25a3c8f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471632738307,
+      "latitude": 40.765119,
+      "longitude": -73.985467,
+      "lure_expiration": null,
+      "pokestop_id": "083eba6c0a3041b394cefc1ac4b619bc.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471364346298,
+      "latitude": 40.772536,
+      "longitude": -73.985759,
+      "lure_expiration": null,
+      "pokestop_id": "94d75fbe614c4e008f879c30509528d7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471681015032,
+      "latitude": 40.770735,
+      "longitude": -73.969027,
+      "lure_expiration": null,
+      "pokestop_id": "6e0db21c0503479597afaca9ec5bbee6.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471395820344,
+      "latitude": 40.765369,
+      "longitude": -73.964227,
+      "lure_expiration": null,
+      "pokestop_id": "39002a8f298f45c7b89ebca8f05ac312.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690889579,
+      "latitude": 40.77144,
+      "longitude": -73.967342,
+      "lure_expiration": null,
+      "pokestop_id": "9a259cd83440443fa8e883c6f6ed1375.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471636925608,
+      "latitude": 40.761927,
+      "longitude": -73.975833,
+      "lure_expiration": null,
+      "pokestop_id": "a229099f001a4195a443230239710544.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700156347,
+      "latitude": 40.767286,
+      "longitude": -73.971443,
+      "lure_expiration": null,
+      "pokestop_id": "cc98de5f6a4c4026b117ba616b66b126.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703484185,
+      "latitude": 40.775773,
+      "longitude": -73.965103,
+      "lure_expiration": 1471705284185,
+      "pokestop_id": "9ecd473414864b86aa4e5a55d9ddb1aa.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471667694644,
+      "latitude": 40.773596,
+      "longitude": -73.98187,
+      "lure_expiration": null,
+      "pokestop_id": "362ed98882ba48ae97f45bf4faa676fe.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700078264,
+      "latitude": 40.76726,
+      "longitude": -73.975403,
+      "lure_expiration": null,
+      "pokestop_id": "680afe0f703a4b12a97dc6ca7ed54d90.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471643591303,
+      "latitude": 40.767036,
+      "longitude": -73.967704,
+      "lure_expiration": null,
+      "pokestop_id": "b8194b10144440d68473482f3895f280.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471638134717,
+      "latitude": 40.76312,
+      "longitude": -73.976611,
+      "lure_expiration": null,
+      "pokestop_id": "5b158df435c14386badf09920551eb84.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471540069488,
+      "latitude": 40.777332,
+      "longitude": -73.976279,
+      "lure_expiration": null,
+      "pokestop_id": "209c98b902a546b3ad6911dc1e0bdab9.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471689766694,
+      "latitude": 40.770044,
+      "longitude": -73.978313,
+      "lure_expiration": null,
+      "pokestop_id": "4c7ee6ee9d3b460f8ea4f07e63ac6c50.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471678919154,
+      "latitude": 40.774727,
+      "longitude": -73.969296,
+      "lure_expiration": null,
+      "pokestop_id": "4e92ccdd332c455199d29542cc695f13.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698909993,
+      "latitude": 40.776732,
+      "longitude": -73.970868,
+      "lure_expiration": null,
+      "pokestop_id": "0804d6da7d9742fd8ce51939d2755cce.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471616632275,
+      "latitude": 40.766878,
+      "longitude": -73.963484,
+      "lure_expiration": null,
+      "pokestop_id": "f6f43e6822e34c198783fe6e05b47167.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703190344,
+      "latitude": 40.773691,
+      "longitude": -73.966818,
+      "lure_expiration": 1471704990344,
+      "pokestop_id": "26bc4db298254e10aef7ce2600e3fc33.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471464868177,
+      "latitude": 40.76697,
+      "longitude": -73.969542,
+      "lure_expiration": null,
+      "pokestop_id": "aecd2452c45d44da8df4dd09b427710a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471669982112,
+      "latitude": 40.777712,
+      "longitude": -73.968268,
+      "lure_expiration": null,
+      "pokestop_id": "d4e52f1336c842e6aba46ba9fc2a2d86.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471670656655,
+      "latitude": 40.775123,
+      "longitude": -73.983061,
+      "lure_expiration": null,
+      "pokestop_id": "d97b134d58af498791469fbe56c6a30f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698457407,
+      "latitude": 40.778776,
+      "longitude": -73.974313,
+      "lure_expiration": null,
+      "pokestop_id": "0c188ee490124b0d8b27d4816d5c1451.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471641512118,
+      "latitude": 40.761772,
+      "longitude": -73.972942,
+      "lure_expiration": null,
+      "pokestop_id": "e39a63fa4b3544fe9d237855a207b332.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695657452,
+      "latitude": 40.763694,
+      "longitude": -73.979576,
+      "lure_expiration": null,
+      "pokestop_id": "7652a202172c4129b251927f91db8f07.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659527746,
+      "latitude": 40.765059,
+      "longitude": -73.978441,
+      "lure_expiration": null,
+      "pokestop_id": "1c5bb0b77181409ca37886c56d295082.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686122315,
+      "latitude": 40.769791,
+      "longitude": -73.964518,
+      "lure_expiration": null,
+      "pokestop_id": "2d99d2cb23114e8ebe2cb4be63e2bbc3.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703233780,
+      "latitude": 40.780316,
+      "longitude": -73.974824,
+      "lure_expiration": 1471705033780,
+      "pokestop_id": "89d0f0d4a1fc494090dd2b378c01adc5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471647642064,
+      "latitude": 40.771173,
+      "longitude": -73.965666,
+      "lure_expiration": null,
+      "pokestop_id": "30e134f9d9684083b545171936f44eb7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697917413,
+      "latitude": 40.773143,
+      "longitude": -73.977798,
+      "lure_expiration": null,
+      "pokestop_id": "4016394e04f545dfa2b0663ba45ec200.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471123377208,
+      "latitude": 40.775839,
+      "longitude": -73.981229,
+      "lure_expiration": null,
+      "pokestop_id": "4d10e616d9184cc4977c920ff9247c32.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699681069,
+      "latitude": 40.778155,
+      "longitude": -73.973051,
+      "lure_expiration": null,
+      "pokestop_id": "9f9601899c1e46e9a93f9cf660131670.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703265493,
+      "latitude": 40.769285,
+      "longitude": -73.970871,
+      "lure_expiration": 1471705065493,
+      "pokestop_id": "774d4be6babf4253a3b20ec0b50fef46.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471672910827,
+      "latitude": 40.777581,
+      "longitude": -73.968826,
+      "lure_expiration": null,
+      "pokestop_id": "da8ccf748fa2467b9a7afed8e39fe019.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471640019756,
+      "latitude": 40.770573,
+      "longitude": -73.978448,
+      "lure_expiration": null,
+      "pokestop_id": "8b501c8652994e45b61d184de9bae0fa.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471681210099,
+      "latitude": 40.762425,
+      "longitude": -73.97939,
+      "lure_expiration": null,
+      "pokestop_id": "c291a443976a4684bfae0a7295e0f8cd.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471675859248,
+      "latitude": 40.774475,
+      "longitude": -73.983805,
+      "lure_expiration": null,
+      "pokestop_id": "daf447a873a24bb890d474e34d642a8d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686531552,
+      "latitude": 40.764683,
+      "longitude": -73.977734,
+      "lure_expiration": null,
+      "pokestop_id": "0d12a6ad44b74b5bbcf7800da0b2e293.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703407227,
+      "latitude": 40.765733,
+      "longitude": -73.973636,
+      "lure_expiration": 1471705207227,
+      "pokestop_id": "627bdd332f0b43b7938ec9a830ca23e4.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471646350067,
+      "latitude": 40.773087,
+      "longitude": -73.968437,
+      "lure_expiration": null,
+      "pokestop_id": "3f14e2b25aa2450faf27740a8bc90f56.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471554329077,
+      "latitude": 40.77223,
+      "longitude": -73.979065,
+      "lure_expiration": null,
+      "pokestop_id": "8b91a2b9b9794991b3d22a6cff655f6d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471529338300,
+      "latitude": 40.76351,
+      "longitude": -73.965713,
+      "lure_expiration": null,
+      "pokestop_id": "723341770e084a219a2efb30f44ff3b0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696248670,
+      "latitude": 40.763431,
+      "longitude": -73.981223,
+      "lure_expiration": null,
+      "pokestop_id": "288b4feb9f8247138d4a255eb923dd4f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471623120164,
+      "latitude": 40.774585,
+      "longitude": -73.987174,
+      "lure_expiration": null,
+      "pokestop_id": "fd9227455b6b439a96edc489a75c1faa.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699498690,
+      "latitude": 40.764443,
+      "longitude": -73.98362,
+      "lure_expiration": null,
+      "pokestop_id": "b5c2e0d693f24d9e9e96f6417f973767.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701985272,
+      "latitude": 40.774678,
+      "longitude": -73.966555,
+      "lure_expiration": null,
+      "pokestop_id": "270cb35d8e1c4a0f84db42fd176608b1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471632987352,
+      "latitude": 40.765665,
+      "longitude": -73.968774,
+      "lure_expiration": null,
+      "pokestop_id": "56c31ab57c9a48718127d2c620e43780.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651476509,
+      "latitude": 40.76592,
+      "longitude": -73.979094,
+      "lure_expiration": null,
+      "pokestop_id": "84697f52caf445d19d2b2e1940bac4e1.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702746727,
+      "latitude": 40.766954,
+      "longitude": -73.973782,
+      "lure_expiration": 1471704546727,
+      "pokestop_id": "f1c11fc7c2b44710be79be898ff3ae24.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701399667,
+      "latitude": 40.766958,
+      "longitude": -73.971923,
+      "lure_expiration": null,
+      "pokestop_id": "de7e23666ee54457962520203db1e16c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471392803824,
+      "latitude": 40.778701,
+      "longitude": -73.984287,
+      "lure_expiration": null,
+      "pokestop_id": "63aa2a8becf943bfb0164d675ede609b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695978875,
+      "latitude": 40.765498,
+      "longitude": -73.965623,
+      "lure_expiration": null,
+      "pokestop_id": "c9a18b50c3f74c31838f04a9676c7b9a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471665908964,
+      "latitude": 40.76871,
+      "longitude": -73.97598,
+      "lure_expiration": null,
+      "pokestop_id": "5d0341f88e274a30b8df053f86fc592e.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703767235,
+      "latitude": 40.764627,
+      "longitude": -73.971696,
+      "lure_expiration": 1471705567235,
+      "pokestop_id": "03d55664e8824ca69f8fa64c5af9dacc.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698101873,
+      "latitude": 40.771908,
+      "longitude": -73.98818,
+      "lure_expiration": null,
+      "pokestop_id": "18071c1774374d1cb620aca03d8d447f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471678962495,
+      "latitude": 40.770303,
+      "longitude": -73.968096,
+      "lure_expiration": null,
+      "pokestop_id": "11a6358bfecd419bbd974e6633717693.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471615636156,
+      "latitude": 40.773861,
+      "longitude": -73.982481,
+      "lure_expiration": null,
+      "pokestop_id": "91211fe765484ef3bf7953bcc7a1b6bf.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664012558,
+      "latitude": 40.764775,
+      "longitude": -73.97796,
+      "lure_expiration": null,
+      "pokestop_id": "f9106e80df3646b0ae0de47ba11e9d94.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659510803,
+      "latitude": 40.778054,
+      "longitude": -73.979972,
+      "lure_expiration": null,
+      "pokestop_id": "22e3180ef66d43909bb0773efa4305b5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664166615,
+      "latitude": 40.763175,
+      "longitude": -73.983893,
+      "lure_expiration": null,
+      "pokestop_id": "895db5f38d5843f18b1ede4a92f62253.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661480117,
+      "latitude": 40.764305,
+      "longitude": -73.966805,
+      "lure_expiration": null,
+      "pokestop_id": "2894b9d6558d4c9daf6e0fb3a87b0189.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471670676552,
+      "latitude": 40.762181,
+      "longitude": -73.978444,
+      "lure_expiration": null,
+      "pokestop_id": "0ee24e036da54a238de33fb943b450f6.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471643212760,
+      "latitude": 40.765787,
+      "longitude": -73.981086,
+      "lure_expiration": null,
+      "pokestop_id": "0599840beea347a2b0903493bc88665a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663653480,
+      "latitude": 40.775745,
+      "longitude": -73.968471,
+      "lure_expiration": null,
+      "pokestop_id": "d7617e92f3fc48cfaf2c941959c44866.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703729396,
+      "latitude": 40.772426,
+      "longitude": -73.971837,
+      "lure_expiration": 1471705529396,
+      "pokestop_id": "5faefd305fef4937b857f39ccd2599c1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686866732,
+      "latitude": 40.769947,
+      "longitude": -73.969998,
+      "lure_expiration": null,
+      "pokestop_id": "d0a62be2ebe943cbae991f4d7e7f5702.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471520442747,
+      "latitude": 40.768192,
+      "longitude": -73.968945,
+      "lure_expiration": null,
+      "pokestop_id": "c65f59e703224160bc9f6c954329462c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471692231034,
+      "latitude": 40.765651,
+      "longitude": -73.970303,
+      "lure_expiration": null,
+      "pokestop_id": "66bb931bf1094580b2c3d2f0d715f2a0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471604038813,
+      "latitude": 40.776813,
+      "longitude": -73.963673,
+      "lure_expiration": null,
+      "pokestop_id": "7ad194963b9f4614a6ea19384d43b116.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685637180,
+      "latitude": 40.77916,
+      "longitude": -73.98158,
+      "lure_expiration": null,
+      "pokestop_id": "ae948a816f2945eba4f5fcb3ea5b16d4.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702376544,
+      "latitude": 40.766646,
+      "longitude": -73.972993,
+      "lure_expiration": null,
+      "pokestop_id": "8cc79937b8cc48aba55798ffff3287af.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471691982606,
+      "latitude": 40.774823,
+      "longitude": -73.966976,
+      "lure_expiration": null,
+      "pokestop_id": "6d4e8a6669e04175badcb95212b1cad1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471608099866,
+      "latitude": 40.765555,
+      "longitude": -73.963055,
+      "lure_expiration": null,
+      "pokestop_id": "be70d81a4c8e413a9997ecf1f825265e.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703183343,
+      "latitude": 40.767575,
+      "longitude": -73.971166,
+      "lure_expiration": 1471704983343,
+      "pokestop_id": "473595dc5bfd4ae5b08a44b2a612442c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471677081926,
+      "latitude": 40.765993,
+      "longitude": -73.98085,
+      "lure_expiration": null,
+      "pokestop_id": "1c1da679fea14ce7aa44f75d66de8767.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471652718586,
+      "latitude": 40.770697,
+      "longitude": -73.983525,
+      "lure_expiration": null,
+      "pokestop_id": "fe8098581b7343638ae0b3ca5c035f0c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695053010,
+      "latitude": 40.766961,
+      "longitude": -73.978862,
+      "lure_expiration": null,
+      "pokestop_id": "4a8febd641754d268359f59fb1894a3c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471618081131,
+      "latitude": 40.772242,
+      "longitude": -73.966177,
+      "lure_expiration": null,
+      "pokestop_id": "ab90225539d0446eabc34aaacd0bb66d.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686526184,
+      "latitude": 40.766434,
+      "longitude": -73.983301,
+      "lure_expiration": null,
+      "pokestop_id": "2e6d2fff2be84cf59c22bc9155700177.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471552029230,
+      "latitude": 40.773883,
+      "longitude": -73.984854,
+      "lure_expiration": null,
+      "pokestop_id": "46cb1e6038434ca2b6a8e6e8a5eed798.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471660851788,
+      "latitude": 40.769016,
+      "longitude": -73.963145,
+      "lure_expiration": null,
+      "pokestop_id": "7b25bbce22704a319471778d917380b8.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703155958,
+      "latitude": 40.777395,
+      "longitude": -73.981048,
+      "lure_expiration": 1471704955958,
+      "pokestop_id": "09dc82bbc3c54f4ea4708816a1d41f4c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697911959,
+      "latitude": 40.773587,
+      "longitude": -73.978056,
+      "lure_expiration": null,
+      "pokestop_id": "23ed3abc4c464f0aa9808bb604778296.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471670601243,
+      "latitude": 40.773203,
+      "longitude": -73.983719,
+      "lure_expiration": null,
+      "pokestop_id": "bfec994e92fe49099eee04e9137f3d8b.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471470304144,
+      "latitude": 40.774142,
+      "longitude": -73.986982,
+      "lure_expiration": null,
+      "pokestop_id": "b8579f344e70477e9f0c4edff1609abd.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644169396,
+      "latitude": 40.772943,
+      "longitude": -73.980243,
+      "lure_expiration": null,
+      "pokestop_id": "17a30cd027f249ea988cf6f269970fe1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701722291,
+      "latitude": 40.762298,
+      "longitude": -73.980477,
+      "lure_expiration": null,
+      "pokestop_id": "70de20836faa41c99693f742bdddfee5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471643553250,
+      "latitude": 40.772533,
+      "longitude": -73.983952,
+      "lure_expiration": null,
+      "pokestop_id": "a2aa80f9fcc24fe2a46f6e4d26290956.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697980481,
+      "latitude": 40.762521,
+      "longitude": -73.982415,
+      "lure_expiration": null,
+      "pokestop_id": "6b09c41fbf514431b3588c7c0dcd4a5a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471694280586,
+      "latitude": 40.766463,
+      "longitude": -73.982784,
+      "lure_expiration": null,
+      "pokestop_id": "add2d4fc94f8416b9713151e6bf6124b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699066334,
+      "latitude": 40.763422,
+      "longitude": -73.972566,
+      "lure_expiration": null,
+      "pokestop_id": "8000e6cfdbe2465095a4ab1185993e86.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703065668,
+      "latitude": 40.770179,
+      "longitude": -73.97677,
+      "lure_expiration": 1471704865668,
+      "pokestop_id": "218ba9739033494996c4727d60ed6d22.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471482796071,
+      "latitude": 40.77481,
+      "longitude": -73.980943,
+      "lure_expiration": null,
+      "pokestop_id": "cfdc3739008a4b72b621e97117536fdf.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471666653414,
+      "latitude": 40.766836,
+      "longitude": -73.980824,
+      "lure_expiration": null,
+      "pokestop_id": "2e7616f4e9f64115a18985e5e73bf3ad.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686261936,
+      "latitude": 40.76238,
+      "longitude": -73.974253,
+      "lure_expiration": null,
+      "pokestop_id": "bbfc5e7095b54a67af0de2296e61d455.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471553270771,
+      "latitude": 40.764164,
+      "longitude": -73.96714,
+      "lure_expiration": null,
+      "pokestop_id": "595f2af24289430f9b7a73739ab19b52.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663304174,
+      "latitude": 40.763692,
+      "longitude": -73.983822,
+      "lure_expiration": null,
+      "pokestop_id": "c45e33043a4c40268a446d27edd871de.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690607287,
+      "latitude": 40.763659,
+      "longitude": -73.972644,
+      "lure_expiration": null,
+      "pokestop_id": "3e5aeda6269a4112b632ed7ab8f748f7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471656216816,
+      "latitude": 40.776312,
+      "longitude": -73.979419,
+      "lure_expiration": null,
+      "pokestop_id": "b3054e73a84241f1919b887044a0b5e8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702250012,
+      "latitude": 40.768442,
+      "longitude": -73.977179,
+      "lure_expiration": null,
+      "pokestop_id": "04bdc94bad784433a7e3427de0e6507b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690904903,
+      "latitude": 40.77109,
+      "longitude": -73.967451,
+      "lure_expiration": null,
+      "pokestop_id": "0ce34b99dcc644ce9cd37290ee722546.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471653347307,
+      "latitude": 40.775519,
+      "longitude": -73.981908,
+      "lure_expiration": null,
+      "pokestop_id": "4174b0d81b2949dda5651130102a8e43.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471646939325,
+      "latitude": 40.763252,
+      "longitude": -73.98315,
+      "lure_expiration": null,
+      "pokestop_id": "aa45df94ef804a938902a028dda2451e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471693255366,
+      "latitude": 40.765311,
+      "longitude": -73.979808,
+      "lure_expiration": null,
+      "pokestop_id": "c722cfce53ff455e8131771c589cf8cd.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703538937,
+      "latitude": 40.776917,
+      "longitude": -73.971584,
+      "lure_expiration": 1471705338937,
+      "pokestop_id": "cd53b5b0efa74d1e98f445aa69172c89.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668330145,
+      "latitude": 40.77896,
+      "longitude": -73.980518,
+      "lure_expiration": null,
+      "pokestop_id": "335aed7d8b59448e86e4d86191690a3c.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703900954,
+      "latitude": 40.775448,
+      "longitude": -73.972209,
+      "lure_expiration": 1471705700954,
+      "pokestop_id": "96287c48c3504d52bbfad9566d2a334b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471614040417,
+      "latitude": 40.763268,
+      "longitude": -73.967557,
+      "lure_expiration": null,
+      "pokestop_id": "2720fee5a066425d9d009370dd99311e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471546609946,
+      "latitude": 40.76302,
+      "longitude": -73.966372,
+      "lure_expiration": null,
+      "pokestop_id": "e1fde9f8f857459293ebedd54f8d33fb.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703541412,
+      "latitude": 40.77898,
+      "longitude": -73.971818,
+      "lure_expiration": 1471705341412,
+      "pokestop_id": "12b639e544194940a238198afb4adab6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471564175833,
+      "latitude": 40.772421,
+      "longitude": -73.984251,
+      "lure_expiration": null,
+      "pokestop_id": "938f6fba2d2b40159cd92fc1d692e8df.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471639324543,
+      "latitude": 40.769326,
+      "longitude": -73.988721,
+      "lure_expiration": null,
+      "pokestop_id": "8b2a52bc57ee4866bb4f861be84e99aa.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703008173,
+      "latitude": 40.76609,
+      "longitude": -73.977393,
+      "lure_expiration": 1471704808173,
+      "pokestop_id": "32b404f2c98343d6afca9f9fc8b62114.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471687754785,
+      "latitude": 40.764701,
+      "longitude": -73.976206,
+      "lure_expiration": null,
+      "pokestop_id": "ef502e5ea73c423da6b8983afb7df4f3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699699034,
+      "latitude": 40.774797,
+      "longitude": -73.977149,
+      "lure_expiration": null,
+      "pokestop_id": "d661c9a4f37c49358083d5bad73816ff.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696598874,
+      "latitude": 40.778112,
+      "longitude": -73.978101,
+      "lure_expiration": null,
+      "pokestop_id": "4ca3b1fe6bc44fafa5b88c9d0323fb7d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697034781,
+      "latitude": 40.772113,
+      "longitude": -73.973361,
+      "lure_expiration": null,
+      "pokestop_id": "1f40a49f0fd44d4aa8ef0c3fdc98587e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702222514,
+      "latitude": 40.776558,
+      "longitude": -73.964968,
+      "lure_expiration": null,
+      "pokestop_id": "61f833e79cd94f0fb6e0ab223ce81eb0.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698200160,
+      "latitude": 40.763639,
+      "longitude": -73.981259,
+      "lure_expiration": null,
+      "pokestop_id": "b925b717f74643ae91098f28d3e1b952.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702480709,
+      "latitude": 40.768904,
+      "longitude": -73.98264,
+      "lure_expiration": null,
+      "pokestop_id": "f2843406406c465cb0fbd1c80854d54f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686466943,
+      "latitude": 40.762858,
+      "longitude": -73.978075,
+      "lure_expiration": null,
+      "pokestop_id": "b6151a5fb4cd4c7597ac92abb29e1137.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690511883,
+      "latitude": 40.763752,
+      "longitude": -73.969455,
+      "lure_expiration": null,
+      "pokestop_id": "975823bc75774873a52032cebb649e6e.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644565084,
+      "latitude": 40.779241,
+      "longitude": -73.982816,
+      "lure_expiration": null,
+      "pokestop_id": "a206b964161b4bd597f4d26dd49fffde.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471629586006,
+      "latitude": 40.770126,
+      "longitude": -73.982425,
+      "lure_expiration": null,
+      "pokestop_id": "cf75b39bc06a4cb3ab7ffb30d1d4a252.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471660187921,
+      "latitude": 40.779895,
+      "longitude": -73.984263,
+      "lure_expiration": null,
+      "pokestop_id": "00bc29ea4d57422f8648e3ef2b1235c3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471650354291,
+      "latitude": 40.767688,
+      "longitude": -73.967353,
+      "lure_expiration": null,
+      "pokestop_id": "0880d91373704305a02421d3b6c04615.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471218229677,
+      "latitude": 40.763684,
+      "longitude": -73.966065,
+      "lure_expiration": null,
+      "pokestop_id": "8f8b43272bb14d62b7329cd55ef8b882.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704186282,
+      "latitude": 40.772433,
+      "longitude": -73.9726,
+      "lure_expiration": 1471705986282,
+      "pokestop_id": "d77fe0a33cab4dc794d72f036a8bb5fa.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471671668622,
+      "latitude": 40.774082,
+      "longitude": -73.98842,
+      "lure_expiration": null,
+      "pokestop_id": "0e4a21e97a0349568c76c4243af7f24a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471666671783,
+      "latitude": 40.780035,
+      "longitude": -73.970489,
+      "lure_expiration": null,
+      "pokestop_id": "0077385e70ee48f1bbd3a107a596fb4b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690905375,
+      "latitude": 40.762696,
+      "longitude": -73.974317,
+      "lure_expiration": null,
+      "pokestop_id": "64cb6196efed40c4aefaf7da486b3727.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704202384,
+      "latitude": 40.774598,
+      "longitude": -73.968942,
+      "lure_expiration": 1471706002384,
+      "pokestop_id": "4080b48bba4e4baa8e98fd9407a71071.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471674972989,
+      "latitude": 40.774084,
+      "longitude": -73.965686,
+      "lure_expiration": null,
+      "pokestop_id": "d65caba79e32448f83b8694b2e7416d0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637295259,
+      "latitude": 40.773503,
+      "longitude": -73.964003,
+      "lure_expiration": null,
+      "pokestop_id": "f9d85ae8fdc1499ab550b6d9f025ffda.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663778473,
+      "latitude": 40.765363,
+      "longitude": -73.978619,
+      "lure_expiration": null,
+      "pokestop_id": "43fd8e81ff4d49208f0a15e64a51b641.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702620365,
+      "latitude": 40.775166,
+      "longitude": -73.97264,
+      "lure_expiration": 1471704420365,
+      "pokestop_id": "d456b21a5dad4eb692d0351593755ef0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644377115,
+      "latitude": 40.761944,
+      "longitude": -73.970277,
+      "lure_expiration": null,
+      "pokestop_id": "65d5cbb698d340d185f31c9f6121bc18.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702041149,
+      "latitude": 40.777463,
+      "longitude": -73.969353,
+      "lure_expiration": null,
+      "pokestop_id": "68e69411da484b7984f89ae65ee208d6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471673655516,
+      "latitude": 40.769341,
+      "longitude": -73.981888,
+      "lure_expiration": null,
+      "pokestop_id": "f015baea80a046ed8d0a4d3a8ee54ca6.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697229827,
+      "latitude": 40.779998,
+      "longitude": -73.976694,
+      "lure_expiration": null,
+      "pokestop_id": "e996668a58e84752b0ea31574e2bffea.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471665347156,
+      "latitude": 40.776372,
+      "longitude": -73.98188,
+      "lure_expiration": null,
+      "pokestop_id": "93c12d3863f445c880bf37c36453d586.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664265942,
+      "latitude": 40.766337,
+      "longitude": -73.964598,
+      "lure_expiration": null,
+      "pokestop_id": "36630040d6884f2faf2d8bbfb0eadce0.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703530356,
+      "latitude": 40.77041,
+      "longitude": -73.974395,
+      "lure_expiration": 1471705330356,
+      "pokestop_id": "a00fc33b5834482fb399f64efe2dcfaa.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471332747789,
+      "latitude": 40.769202,
+      "longitude": -73.965576,
+      "lure_expiration": null,
+      "pokestop_id": "9b5d20ba2317437b8c1d136afb6828f6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698039169,
+      "latitude": 40.775756,
+      "longitude": -73.965499,
+      "lure_expiration": null,
+      "pokestop_id": "e69c50961bee497c928502bbdf280bca.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471672023173,
+      "latitude": 40.771756,
+      "longitude": -73.970771,
+      "lure_expiration": null,
+      "pokestop_id": "53f3d4850eba4042b037cd1043eef458.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698041406,
+      "latitude": 40.776989,
+      "longitude": -73.969749,
+      "lure_expiration": null,
+      "pokestop_id": "04fce3348e2048f0bd3db9e56056d7ee.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701646972,
+      "latitude": 40.780648,
+      "longitude": -73.972196,
+      "lure_expiration": null,
+      "pokestop_id": "7b8f019c095f4d00b2d7940c812064fe.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701402530,
+      "latitude": 40.769874,
+      "longitude": -73.97101,
+      "lure_expiration": null,
+      "pokestop_id": "69fb27fbe2564cf48a46c458e57b6fc0.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703246970,
+      "latitude": 40.767951,
+      "longitude": -73.985447,
+      "lure_expiration": 1471705046970,
+      "pokestop_id": "9c24cba6b4374b11be334348d47dae63.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702081494,
+      "latitude": 40.780491,
+      "longitude": -73.973055,
+      "lure_expiration": null,
+      "pokestop_id": "bdd24e4147d94b1bbc82565ca2f5b865.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703996196,
+      "latitude": 40.777395,
+      "longitude": -73.97106,
+      "lure_expiration": 1471705796196,
+      "pokestop_id": "f2dae5c651c0411c923a6e455b6fa2ad.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471626876935,
+      "latitude": 40.77552,
+      "longitude": -73.983184,
+      "lure_expiration": null,
+      "pokestop_id": "c16f839d9ff3462b886c36a7e4dd9ccd.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702136450,
+      "latitude": 40.768795,
+      "longitude": -73.977854,
+      "lure_expiration": null,
+      "pokestop_id": "03f2e3700c1b4b7b9cc1de29484b3746.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635708532,
+      "latitude": 40.761716,
+      "longitude": -73.970378,
+      "lure_expiration": null,
+      "pokestop_id": "294e0d853b05430dbdcd01fb62fdecaf.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659273756,
+      "latitude": 40.770066,
+      "longitude": -73.988598,
+      "lure_expiration": null,
+      "pokestop_id": "0bad6570ff2f44c0b9142b56b9524a14.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703633613,
+      "latitude": 40.764916,
+      "longitude": -73.972457,
+      "lure_expiration": 1471705433613,
+      "pokestop_id": "76a550ce84994d71955939e2ec21ac06.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698869498,
+      "latitude": 40.766739,
+      "longitude": -73.979252,
+      "lure_expiration": null,
+      "pokestop_id": "d2798e82d71b44ac811ec3a3325c777f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651003101,
+      "latitude": 40.777353,
+      "longitude": -73.982331,
+      "lure_expiration": null,
+      "pokestop_id": "83a69e0940d8460e8a9fad9df3db3e0b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471670543585,
+      "latitude": 40.778253,
+      "longitude": -73.97905,
+      "lure_expiration": null,
+      "pokestop_id": "1656e112eec14cdba099674ffb4b064b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663007784,
+      "latitude": 40.777037,
+      "longitude": -73.981729,
+      "lure_expiration": null,
+      "pokestop_id": "fa6917b06fa24c20a0e2b79ac208efa5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698897181,
+      "latitude": 40.778741,
+      "longitude": -73.983865,
+      "lure_expiration": null,
+      "pokestop_id": "bdfc0f803e58495e90bb7fa60a4b38da.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471459718832,
+      "latitude": 40.775448,
+      "longitude": -73.96291,
+      "lure_expiration": null,
+      "pokestop_id": "8a1ac4024cd044c68f08f8fd3783b126.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471657946412,
+      "latitude": 40.763743,
+      "longitude": -73.984814,
+      "lure_expiration": null,
+      "pokestop_id": "a8a91a147b9a40e7bb63719905bbc134.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701558265,
+      "latitude": 40.769875,
+      "longitude": -73.972728,
+      "lure_expiration": null,
+      "pokestop_id": "6f632327c3df43d39ccd23d94ed99095.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702573128,
+      "latitude": 40.772241,
+      "longitude": -73.987601,
+      "lure_expiration": 1471704373128,
+      "pokestop_id": "425230b9456a499dacc26830643a3564.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471642976942,
+      "latitude": 40.766654,
+      "longitude": -73.98037,
+      "lure_expiration": null,
+      "pokestop_id": "5988bbbded064d4398c396788be71c80.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696108570,
+      "latitude": 40.762909,
+      "longitude": -73.969544,
+      "lure_expiration": null,
+      "pokestop_id": "61076fdca5214fba87b3c10d1de1492c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471670265025,
+      "latitude": 40.768032,
+      "longitude": -73.987862,
+      "lure_expiration": null,
+      "pokestop_id": "13f5c2071ace4375b2dcd6da14f8d063.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471608614701,
+      "latitude": 40.760867,
+      "longitude": -73.969531,
+      "lure_expiration": null,
+      "pokestop_id": "c5051aab292e4187a60a3c585a1d80c9.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701578136,
+      "latitude": 40.761175,
+      "longitude": -73.96918,
+      "lure_expiration": null,
+      "pokestop_id": "3a28e2498bf84581bcd83e1d4157c630.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471672004009,
+      "latitude": 40.766096,
+      "longitude": -73.985828,
+      "lure_expiration": null,
+      "pokestop_id": "198b32ac668b47ca861c39a5f7a8e297.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698379141,
+      "latitude": 40.776765,
+      "longitude": -73.982811,
+      "lure_expiration": null,
+      "pokestop_id": "939e3fe279e44037813d9c1ed82b1b95.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471677239971,
+      "latitude": 40.768187,
+      "longitude": -73.972459,
+      "lure_expiration": null,
+      "pokestop_id": "d226aad99cba4f899378759f73395f5b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701556719,
+      "latitude": 40.779626,
+      "longitude": -73.970913,
+      "lure_expiration": null,
+      "pokestop_id": "c3991e93039642918a87943e53741efe.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697349860,
+      "latitude": 40.772878,
+      "longitude": -73.975149,
+      "lure_expiration": null,
+      "pokestop_id": "e3834c93738641528b7d4835a022623a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471630165601,
+      "latitude": 40.770917,
+      "longitude": -73.984907,
+      "lure_expiration": null,
+      "pokestop_id": "d13123ed04dc4fc9a2108361ff348e52.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471615779491,
+      "latitude": 40.765501,
+      "longitude": -73.967643,
+      "lure_expiration": null,
+      "pokestop_id": "d0d0594b9cbb4233b3b08f72e79346bd.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637623558,
+      "latitude": 40.761821,
+      "longitude": -73.973712,
+      "lure_expiration": null,
+      "pokestop_id": "04947528f13645adaa4699bf5b64fb5c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699325479,
+      "latitude": 40.771032,
+      "longitude": -73.97352,
+      "lure_expiration": null,
+      "pokestop_id": "f0178a7075a9445c980014b79f571f1a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702171074,
+      "latitude": 40.770876,
+      "longitude": -73.981512,
+      "lure_expiration": null,
+      "pokestop_id": "ac16182419dc40aeb133b56e6625e2ab.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704228425,
+      "latitude": 40.77862,
+      "longitude": -73.971604,
+      "lure_expiration": 1471706028425,
+      "pokestop_id": "e77c65008c6f474e910e411724adca02.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703720607,
+      "latitude": 40.772863,
+      "longitude": -73.971843,
+      "lure_expiration": 1471705520607,
+      "pokestop_id": "29fbc21835f24d49bf10f3abec640369.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471682527407,
+      "latitude": 40.77373,
+      "longitude": -73.976355,
+      "lure_expiration": null,
+      "pokestop_id": "88f1a418e22d4dab90c3250c3cf36604.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471678972979,
+      "latitude": 40.767627,
+      "longitude": -73.985467,
+      "lure_expiration": null,
+      "pokestop_id": "a1440544e64a4f7ea406593c1164d4c6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702420170,
+      "latitude": 40.765398,
+      "longitude": -73.975006,
+      "lure_expiration": null,
+      "pokestop_id": "f08c2e6d331a4bb7aca4c5cf05ab331d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471652801594,
+      "latitude": 40.776763,
+      "longitude": -73.967021,
+      "lure_expiration": null,
+      "pokestop_id": "cbfe335a19394b39b95e5102ab0aaaa4.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701539130,
+      "latitude": 40.768239,
+      "longitude": -73.971504,
+      "lure_expiration": null,
+      "pokestop_id": "38e0383787654ae891013482153deaee.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698669672,
+      "latitude": 40.773654,
+      "longitude": -73.979554,
+      "lure_expiration": null,
+      "pokestop_id": "93de35c6636446bc982143b5dc24bf23.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471655422256,
+      "latitude": 40.769619,
+      "longitude": -73.982353,
+      "lure_expiration": null,
+      "pokestop_id": "e539f546b2144dcfa566eec45273cbd7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471653520506,
+      "latitude": 40.770012,
+      "longitude": -73.965519,
+      "lure_expiration": null,
+      "pokestop_id": "5c466769d1f04f4faddaa360ffb3f2da.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471681940669,
+      "latitude": 40.773438,
+      "longitude": -73.977297,
+      "lure_expiration": null,
+      "pokestop_id": "308ed4286f7f4b83be6c612ea2d171f2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471647515883,
+      "latitude": 40.766467,
+      "longitude": -73.966353,
+      "lure_expiration": null,
+      "pokestop_id": "40422fee26f64ed39680bcdc7b7b204e.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704088373,
+      "latitude": 40.77223,
+      "longitude": -73.968931,
+      "lure_expiration": 1471705888373,
+      "pokestop_id": "4bf145252431403a90ca05a32ee741fb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697436267,
+      "latitude": 40.767996,
+      "longitude": -73.964124,
+      "lure_expiration": null,
+      "pokestop_id": "51c5e0c1897540e8857731bae08f3667.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702969338,
+      "latitude": 40.766344,
+      "longitude": -73.978148,
+      "lure_expiration": 1471704769338,
+      "pokestop_id": "d54e5809e3dd478084596c4d56512681.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471558617692,
+      "latitude": 40.778763,
+      "longitude": -73.978103,
+      "lure_expiration": null,
+      "pokestop_id": "84250c64643d4911b24bc6575e485ad0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471694274291,
+      "latitude": 40.766813,
+      "longitude": -73.982632,
+      "lure_expiration": null,
+      "pokestop_id": "e5bfd98e1a604fda890bd491774d8605.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471544466371,
+      "latitude": 40.766087,
+      "longitude": -73.969774,
+      "lure_expiration": null,
+      "pokestop_id": "e5b0680b770a431db9b7ef56493b006a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701620694,
+      "latitude": 40.778797,
+      "longitude": -73.972031,
+      "lure_expiration": null,
+      "pokestop_id": "86e03e174b784aaabdd184c61d8bc183.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703178734,
+      "latitude": 40.767849,
+      "longitude": -73.974241,
+      "lure_expiration": 1471704978734,
+      "pokestop_id": "ab9f0796972a4c7c83a5d58763518cf6.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703678803,
+      "latitude": 40.766796,
+      "longitude": -73.975984,
+      "lure_expiration": 1471705478803,
+      "pokestop_id": "dcc6711960844381ba48e13f11fa59e0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471658800625,
+      "latitude": 40.762465,
+      "longitude": -73.968449,
+      "lure_expiration": null,
+      "pokestop_id": "6c0185f2d61f45c8afc70e5ac62f465d.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703479723,
+      "latitude": 40.774241,
+      "longitude": -73.97133,
+      "lure_expiration": 1471705279723,
+      "pokestop_id": "02282a3588d44cc88e27c25bba0e55fb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699778134,
+      "latitude": 40.774127,
+      "longitude": -73.979127,
+      "lure_expiration": null,
+      "pokestop_id": "d79e3f6729c24c639da5145cc306df3a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701566792,
+      "latitude": 40.774702,
+      "longitude": -73.972811,
+      "lure_expiration": null,
+      "pokestop_id": "90416376edb64365ab2269442fb6fa56.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702792618,
+      "latitude": 40.775377,
+      "longitude": -73.971347,
+      "lure_expiration": 1471704592618,
+      "pokestop_id": "a13c73f5067e4a1d840c46f8701e26e7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685584292,
+      "latitude": 40.778813,
+      "longitude": -73.981677,
+      "lure_expiration": null,
+      "pokestop_id": "7f26041e06d84e01b15f26ad76e10add.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471666688313,
+      "latitude": 40.762519,
+      "longitude": -73.977169,
+      "lure_expiration": null,
+      "pokestop_id": "cb3fffe9a80e4d56b5a9584385e4aafd.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471654548376,
+      "latitude": 40.76161,
+      "longitude": -73.973391,
+      "lure_expiration": null,
+      "pokestop_id": "437ac5d816044f74917afd4c91d23702.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644224120,
+      "latitude": 40.770931,
+      "longitude": -73.966794,
+      "lure_expiration": null,
+      "pokestop_id": "aaaece3b858743128e42c173edb970b5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471620626358,
+      "latitude": 40.774321,
+      "longitude": -73.979653,
+      "lure_expiration": null,
+      "pokestop_id": "57e3741b869a4cc6819000915afdc3eb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471535340955,
+      "latitude": 40.771013,
+      "longitude": -73.98379,
+      "lure_expiration": null,
+      "pokestop_id": "acfd61c8db124b5b9e6281e054615bb5.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471683898559,
+      "latitude": 40.773006,
+      "longitude": -73.969859,
+      "lure_expiration": null,
+      "pokestop_id": "921faf02180a4210b43c4962fadb4d17.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471379761458,
+      "latitude": 40.767542,
+      "longitude": -73.966131,
+      "lure_expiration": null,
+      "pokestop_id": "5e852379c03d45fb87370657d2669b10.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695145557,
+      "latitude": 40.777586,
+      "longitude": -73.978858,
+      "lure_expiration": null,
+      "pokestop_id": "b7952485401f49e197315f812afcea69.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471677978903,
+      "latitude": 40.768805,
+      "longitude": -73.988144,
+      "lure_expiration": null,
+      "pokestop_id": "fed3e9b25b0d4739bde4527eed7afad8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701218935,
+      "latitude": 40.767609,
+      "longitude": -73.97806,
+      "lure_expiration": null,
+      "pokestop_id": "73cef0bf34d54069a49103436f0fb466.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471691347937,
+      "latitude": 40.762257,
+      "longitude": -73.971939,
+      "lure_expiration": null,
+      "pokestop_id": "067d7f9d86d947ddada78f1352ad8f99.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471455539188,
+      "latitude": 40.767473,
+      "longitude": -73.963575,
+      "lure_expiration": null,
+      "pokestop_id": "bf42f4d633ef4e4e9810b694348caa6c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471568743461,
+      "latitude": 40.779874,
+      "longitude": -73.978763,
+      "lure_expiration": null,
+      "pokestop_id": "44e576a51da141b4b516bc58baa27610.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697235441,
+      "latitude": 40.771084,
+      "longitude": -73.972109,
+      "lure_expiration": null,
+      "pokestop_id": "e16ed46b57de43089d011d4c9c1aa7e2.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702517884,
+      "latitude": 40.780819,
+      "longitude": -73.974662,
+      "lure_expiration": null,
+      "pokestop_id": "7d2c87fd6e3140d7b675393cc3166098.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471687593393,
+      "latitude": 40.780587,
+      "longitude": -73.980032,
+      "lure_expiration": null,
+      "pokestop_id": "0b6ea0b2198b4f079700a297fffbd1f9.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471652232549,
+      "latitude": 40.779776,
+      "longitude": -73.981955,
+      "lure_expiration": null,
+      "pokestop_id": "a615f9baaa5147f1a68a4e0d09c27dcf.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699649301,
+      "latitude": 40.763681,
+      "longitude": -73.973067,
+      "lure_expiration": null,
+      "pokestop_id": "42c1b038bf40496998f7e8f415f1456f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471662548613,
+      "latitude": 40.772329,
+      "longitude": -73.970891,
+      "lure_expiration": null,
+      "pokestop_id": "5b67ec86d2c747c6ac75e85b367806f3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644433289,
+      "latitude": 40.773306,
+      "longitude": -73.96445,
+      "lure_expiration": null,
+      "pokestop_id": "aa0a461a4ecc48b0a09df39e50b87937.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702262223,
+      "latitude": 40.774703,
+      "longitude": -73.988475,
+      "lure_expiration": null,
+      "pokestop_id": "18762257e2224308bd97f82f215b100d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471478113013,
+      "latitude": 40.772858,
+      "longitude": -73.965617,
+      "lure_expiration": null,
+      "pokestop_id": "ef283fe467ad44399f9b3920c4ea4a20.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471551924426,
+      "latitude": 40.76659,
+      "longitude": -73.964826,
+      "lure_expiration": null,
+      "pokestop_id": "00224b53cb324bf18f0f47921f3869e7.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700374493,
+      "latitude": 40.774691,
+      "longitude": -73.971947,
+      "lure_expiration": null,
+      "pokestop_id": "4d9ab44abd56489183a4a85cd40b52c4.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703854762,
+      "latitude": 40.773332,
+      "longitude": -73.972007,
+      "lure_expiration": 1471705654762,
+      "pokestop_id": "6a9b70c8a56448e997dca119f6027e08.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471641820421,
+      "latitude": 40.766825,
+      "longitude": -73.967198,
+      "lure_expiration": null,
+      "pokestop_id": "51681fb5287c45f9bd29eecd1799b4d6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696013231,
+      "latitude": 40.778695,
+      "longitude": -73.967674,
+      "lure_expiration": null,
+      "pokestop_id": "9a00c15180d14a4e9876e5ab42d188cc.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635912346,
+      "latitude": 40.776088,
+      "longitude": -73.963523,
+      "lure_expiration": null,
+      "pokestop_id": "4016da632384463faba4222baaba9ef2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690259935,
+      "latitude": 40.779374,
+      "longitude": -73.984968,
+      "lure_expiration": null,
+      "pokestop_id": "d376cdbf6b7e46869212d3603a0e3aea.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702062513,
+      "latitude": 40.768087,
+      "longitude": -73.983244,
+      "lure_expiration": null,
+      "pokestop_id": "16930f0695444d2cbe7237bc7ddd9182.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699821240,
+      "latitude": 40.775403,
+      "longitude": -73.965434,
+      "lure_expiration": null,
+      "pokestop_id": "f2729b4c2cb440b1829afae71e7d7fe2.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704198667,
+      "latitude": 40.776226,
+      "longitude": -73.974004,
+      "lure_expiration": 1471705998667,
+      "pokestop_id": "34feb18cc0d94e3db6a14c8ac3942ace.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471676908760,
+      "latitude": 40.773026,
+      "longitude": -73.976687,
+      "lure_expiration": null,
+      "pokestop_id": "0e6608e450c249ceafbd17f9659a315e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695845907,
+      "latitude": 40.766438,
+      "longitude": -73.97664,
+      "lure_expiration": null,
+      "pokestop_id": "ce01cb27f07b41038d1b8d2eb6b43114.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471678589610,
+      "latitude": 40.768366,
+      "longitude": -73.986484,
+      "lure_expiration": null,
+      "pokestop_id": "159f22f1ca8f436b8832a884132e3663.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703635734,
+      "latitude": 40.768082,
+      "longitude": -73.981893,
+      "lure_expiration": 1471705435734,
+      "pokestop_id": "2a784ce20def4749b5c806cb347c3e82.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471625134579,
+      "latitude": 40.766957,
+      "longitude": -73.964891,
+      "lure_expiration": null,
+      "pokestop_id": "4b0f835ff33a47349501d1f8ecac3c87.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471683721039,
+      "latitude": 40.775197,
+      "longitude": -73.965152,
+      "lure_expiration": null,
+      "pokestop_id": "664f4fab874646c3b183d3eb4c4760c0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471680319212,
+      "latitude": 40.765293,
+      "longitude": -73.970991,
+      "lure_expiration": null,
+      "pokestop_id": "b907343b9ae74e5ebce262034ba53771.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703375062,
+      "latitude": 40.766881,
+      "longitude": -73.975614,
+      "lure_expiration": 1471705175062,
+      "pokestop_id": "b57baff135cf4096bf06ad9169568a4c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695893755,
+      "latitude": 40.763117,
+      "longitude": -73.974059,
+      "lure_expiration": null,
+      "pokestop_id": "d00453b430cc4cceb794277a78e7bce6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471631379510,
+      "latitude": 40.762523,
+      "longitude": -73.975119,
+      "lure_expiration": null,
+      "pokestop_id": "4f8f9ca2c48b4e818051c85a16717197.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664418973,
+      "latitude": 40.770873,
+      "longitude": -73.980706,
+      "lure_expiration": null,
+      "pokestop_id": "925dbec1885a44b9aed49f1136a61ebf.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471652473017,
+      "latitude": 40.768521,
+      "longitude": -73.963827,
+      "lure_expiration": null,
+      "pokestop_id": "311c6a57dd0d47e79ddfc6e6dbb90405.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702072880,
+      "latitude": 40.768212,
+      "longitude": -73.980909,
+      "lure_expiration": null,
+      "pokestop_id": "9a0fbeaef1dd451c9221436b66ecb920.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703480459,
+      "latitude": 40.764128,
+      "longitude": -73.98125,
+      "lure_expiration": 1471705280459,
+      "pokestop_id": "4dd04e963c8d43c49df6e4fa1d1374e0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471641528768,
+      "latitude": 40.779761,
+      "longitude": -73.96961,
+      "lure_expiration": null,
+      "pokestop_id": "8d1d22005b6f42f38f5e41e79e8ee5f0.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704287324,
+      "latitude": 40.77241,
+      "longitude": -73.969608,
+      "lure_expiration": 1471706087324,
+      "pokestop_id": "a6b9e0fa08a1426b913c7b71540c5137.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471625449487,
+      "latitude": 40.766835,
+      "longitude": -73.986696,
+      "lure_expiration": null,
+      "pokestop_id": "1280861c4ba7480281ca684dfe64ea50.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471694710594,
+      "latitude": 40.769712,
+      "longitude": -73.984716,
+      "lure_expiration": null,
+      "pokestop_id": "2affefd5deee4b0fbd132f05b2201c10.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703712377,
+      "latitude": 40.772813,
+      "longitude": -73.972326,
+      "lure_expiration": 1471705512377,
+      "pokestop_id": "0739dcd7b3e542d5a13cd4468916e9db.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703755901,
+      "latitude": 40.764517,
+      "longitude": -73.971907,
+      "lure_expiration": 1471705555901,
+      "pokestop_id": "367abab204b640438bb3232220bb151e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659874320,
+      "latitude": 40.763812,
+      "longitude": -73.977385,
+      "lure_expiration": null,
+      "pokestop_id": "4a80afb0f1a946db9a507d66c2daaf1d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695540628,
+      "latitude": 40.763879,
+      "longitude": -73.969936,
+      "lure_expiration": null,
+      "pokestop_id": "dfc08a4fe916485ab887702f558adb09.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661231261,
+      "latitude": 40.775115,
+      "longitude": -73.988084,
+      "lure_expiration": null,
+      "pokestop_id": "a482c6eda00e404c803103dc49d311dd.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661952467,
+      "latitude": 40.762197,
+      "longitude": -73.972557,
+      "lure_expiration": null,
+      "pokestop_id": "49c8edc9226b411ea37076489943f9ab.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471675554918,
+      "latitude": 40.772756,
+      "longitude": -73.976297,
+      "lure_expiration": null,
+      "pokestop_id": "a98d795ffb324f559dd8fcd50cf25d00.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661565377,
+      "latitude": 40.763916,
+      "longitude": -73.974414,
+      "lure_expiration": null,
+      "pokestop_id": "a3f2fcfe50d4471b8f456068d1f8a285.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471639440567,
+      "latitude": 40.765083,
+      "longitude": -73.969353,
+      "lure_expiration": null,
+      "pokestop_id": "de45dcdb70da4cb480e0b0f7dd35796a.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703978440,
+      "latitude": 40.770205,
+      "longitude": -73.979384,
+      "lure_expiration": 1471705778440,
+      "pokestop_id": "44df01f7583945229a976a7de9ebf7f4.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702836838,
+      "latitude": 40.779033,
+      "longitude": -73.969124,
+      "lure_expiration": 1471704636838,
+      "pokestop_id": "4440b54bae0c44799d4a2d4a76e1668b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471585242371,
+      "latitude": 40.774558,
+      "longitude": -73.987423,
+      "lure_expiration": null,
+      "pokestop_id": "5e0ded746e7d49f2bb3be134ca35688f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695406323,
+      "latitude": 40.764668,
+      "longitude": -73.970466,
+      "lure_expiration": null,
+      "pokestop_id": "d8cc3824bc35433da7954854164ba4fb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695996274,
+      "latitude": 40.772894,
+      "longitude": -73.970479,
+      "lure_expiration": null,
+      "pokestop_id": "56b9656ef1a2416ea393521519756989.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471644752867,
+      "latitude": 40.770796,
+      "longitude": -73.986229,
+      "lure_expiration": null,
+      "pokestop_id": "4769e05f50924d968a2c42ec65fc9f39.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703329200,
+      "latitude": 40.774749,
+      "longitude": -73.974123,
+      "lure_expiration": 1471705129200,
+      "pokestop_id": "3c1ca998ed8a4eb7ae0442a7fba2fc88.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690956190,
+      "latitude": 40.76296,
+      "longitude": -73.982143,
+      "lure_expiration": null,
+      "pokestop_id": "b95f914263554919b63d3991c69cf038.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703282681,
+      "latitude": 40.77081,
+      "longitude": -73.977693,
+      "lure_expiration": 1471705082681,
+      "pokestop_id": "b605ced828f94be89e87506ac4b0ae9e.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703877269,
+      "latitude": 40.764769,
+      "longitude": -73.974474,
+      "lure_expiration": 1471705677269,
+      "pokestop_id": "34d02ae7bca0489181cd1e563358593f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635021543,
+      "latitude": 40.766051,
+      "longitude": -73.965861,
+      "lure_expiration": null,
+      "pokestop_id": "4b260b3df4d445d6a411b6f566734a78.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698313920,
+      "latitude": 40.780486,
+      "longitude": -73.981249,
+      "lure_expiration": null,
+      "pokestop_id": "65fc01beaf794d4783a4738c06560896.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471652819575,
+      "latitude": 40.767386,
+      "longitude": -73.982177,
+      "lure_expiration": null,
+      "pokestop_id": "63860227507c41c5853417ee5eaec39d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635536254,
+      "latitude": 40.761904,
+      "longitude": -73.977602,
+      "lure_expiration": null,
+      "pokestop_id": "7145d3df0fb84af08facab84611ff0f6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699540200,
+      "latitude": 40.777491,
+      "longitude": -73.973598,
+      "lure_expiration": null,
+      "pokestop_id": "e969a1f4238d415eb7f5a7025e7218f1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471666665272,
+      "latitude": 40.779776,
+      "longitude": -73.970106,
+      "lure_expiration": null,
+      "pokestop_id": "c132cd8f904b421692834d8b22e76145.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703983987,
+      "latitude": 40.769379,
+      "longitude": -73.985608,
+      "lure_expiration": 1471705783987,
+      "pokestop_id": "4ad2a324150d4d0b925c357c26ac7d5b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471560372882,
+      "latitude": 40.766889,
+      "longitude": -73.981712,
+      "lure_expiration": null,
+      "pokestop_id": "975608d037c74c1ebd783a0bb0c9b784.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471641417215,
+      "latitude": 40.769169,
+      "longitude": -73.975915,
+      "lure_expiration": null,
+      "pokestop_id": "cb41210f92ff46cfa7c78b20b8609b27.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471673048192,
+      "latitude": 40.778151,
+      "longitude": -73.980202,
+      "lure_expiration": null,
+      "pokestop_id": "6c09a11eaab348e88fdf34e7b6ba1d31.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471463472205,
+      "latitude": 40.771505,
+      "longitude": -73.98789,
+      "lure_expiration": null,
+      "pokestop_id": "c9bb27b103cb44bd85c88e1d1bb4ade5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661857341,
+      "latitude": 40.769704,
+      "longitude": -73.985704,
+      "lure_expiration": null,
+      "pokestop_id": "cf99e6840f0141c5b54ed1f18d3712ef.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471672178254,
+      "latitude": 40.768247,
+      "longitude": -73.986824,
+      "lure_expiration": null,
+      "pokestop_id": "40dfb4f32ae84cfca7af9a851e1775c8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471570666138,
+      "latitude": 40.777258,
+      "longitude": -73.975341,
+      "lure_expiration": null,
+      "pokestop_id": "1c491380e3e042eeb6ce0a1f2afafbfe.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699584154,
+      "latitude": 40.768291,
+      "longitude": -73.967236,
+      "lure_expiration": null,
+      "pokestop_id": "cb1695b27f6040e78e63a76e82539483.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685764775,
+      "latitude": 40.77202,
+      "longitude": -73.982497,
+      "lure_expiration": null,
+      "pokestop_id": "6582c27906fa48b88adfb87933e57832.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702901752,
+      "latitude": 40.764501,
+      "longitude": -73.975311,
+      "lure_expiration": 1471704701752,
+      "pokestop_id": "1b11986a45e24d048dc18527b49d17a6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471657849443,
+      "latitude": 40.767874,
+      "longitude": -73.965003,
+      "lure_expiration": null,
+      "pokestop_id": "06b0f9e94ff04dadaec16fd0d59eb814.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703297841,
+      "latitude": 40.777612,
+      "longitude": -73.970996,
+      "lure_expiration": 1471705097841,
+      "pokestop_id": "0c2581656bd848ba83dadd7b16ea5b86.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471691049728,
+      "latitude": 40.765918,
+      "longitude": -73.970943,
+      "lure_expiration": null,
+      "pokestop_id": "14541c0b954c458bb697ab57c206e1ef.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471665363721,
+      "latitude": 40.771448,
+      "longitude": -73.966805,
+      "lure_expiration": null,
+      "pokestop_id": "3996d19f7b7a4edbb79724991254ec80.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697867791,
+      "latitude": 40.767016,
+      "longitude": -73.984267,
+      "lure_expiration": null,
+      "pokestop_id": "f9c74e5376a24daaa517df851215f4df.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664880507,
+      "latitude": 40.76883,
+      "longitude": -73.979398,
+      "lure_expiration": null,
+      "pokestop_id": "45bef481afb9430c9eb58afd4f40ae2f.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702669878,
+      "latitude": 40.764266,
+      "longitude": -73.968554,
+      "lure_expiration": 1471704469878,
+      "pokestop_id": "01b13b2bdf834bdbac4d1323c00212d2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471667764777,
+      "latitude": 40.763676,
+      "longitude": -73.975385,
+      "lure_expiration": null,
+      "pokestop_id": "00fc68200e884f5b8b27bfc9b1bae293.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704177802,
+      "latitude": 40.771011,
+      "longitude": -73.98736,
+      "lure_expiration": 1471705977802,
+      "pokestop_id": "47766883984e45798bbb6de74cc24629.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651870753,
+      "latitude": 40.778725,
+      "longitude": -73.985106,
+      "lure_expiration": null,
+      "pokestop_id": "b1bf693f8d7143b18221d86f657c0393.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700751130,
+      "latitude": 40.774522,
+      "longitude": -73.984536,
+      "lure_expiration": null,
+      "pokestop_id": "4b0c988b6ca64474840d1fe04520811b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471638744762,
+      "latitude": 40.771565,
+      "longitude": -73.984755,
+      "lure_expiration": null,
+      "pokestop_id": "474092040d1c47ddb831340e22912c1b.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703921023,
+      "latitude": 40.775908,
+      "longitude": -73.962592,
+      "lure_expiration": 1471705721023,
+      "pokestop_id": "fb3bcbc2622041b4ac0907c7b07b24b1.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695016310,
+      "latitude": 40.773831,
+      "longitude": -73.984353,
+      "lure_expiration": null,
+      "pokestop_id": "399a99e43ae34ea48e5c649d2cab9935.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471389273395,
+      "latitude": 40.778533,
+      "longitude": -73.979608,
+      "lure_expiration": null,
+      "pokestop_id": "c2fb3819bbcc4a7db4810c71e49961c1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700154587,
+      "latitude": 40.766,
+      "longitude": -73.971604,
+      "lure_expiration": null,
+      "pokestop_id": "cfcb73d054c549f88845f28d819de431.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471449767115,
+      "latitude": 40.76632,
+      "longitude": -73.966008,
+      "lure_expiration": null,
+      "pokestop_id": "3750a41599194814bba41137fc509827.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703714788,
+      "latitude": 40.765014,
+      "longitude": -73.973479,
+      "lure_expiration": 1471705514788,
+      "pokestop_id": "d190ca9d62e54fb2b3d4e9acfd32a384.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700570361,
+      "latitude": 40.767992,
+      "longitude": -73.984724,
+      "lure_expiration": null,
+      "pokestop_id": "d30ee930d8c741109862631ccdf03106.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471665055789,
+      "latitude": 40.764306,
+      "longitude": -73.976879,
+      "lure_expiration": null,
+      "pokestop_id": "58140c19968a4382a457a0e760b14d35.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661169584,
+      "latitude": 40.761425,
+      "longitude": -73.974639,
+      "lure_expiration": null,
+      "pokestop_id": "00eb43188efa43459ef7dcb5bcce6a87.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471650820937,
+      "latitude": 40.781708,
+      "longitude": -73.979217,
+      "lure_expiration": null,
+      "pokestop_id": "9486040cdca745afa72e832a778073f5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471653243233,
+      "latitude": 40.76885,
+      "longitude": -73.969519,
+      "lure_expiration": null,
+      "pokestop_id": "71b859b1ec5848f1bdc6058c84c080f8.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471495109268,
+      "latitude": 40.774745,
+      "longitude": -73.963425,
+      "lure_expiration": null,
+      "pokestop_id": "5244e09d3afb45ca80a6027cc9081bbb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471672760268,
+      "latitude": 40.775759,
+      "longitude": -73.980593,
+      "lure_expiration": null,
+      "pokestop_id": "5da83e362760432785014823f06305a6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471638529919,
+      "latitude": 40.77469,
+      "longitude": -73.962591,
+      "lure_expiration": null,
+      "pokestop_id": "a6e3304aebd4456a89951a59277abb82.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471626193623,
+      "latitude": 40.767131,
+      "longitude": -73.964098,
+      "lure_expiration": null,
+      "pokestop_id": "1675c37fa7654ddb89892102a49a1f52.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701256100,
+      "latitude": 40.777666,
+      "longitude": -73.972901,
+      "lure_expiration": null,
+      "pokestop_id": "3af6642996c1413f95ede72e29747ab6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696286105,
+      "latitude": 40.765028,
+      "longitude": -73.980628,
+      "lure_expiration": null,
+      "pokestop_id": "8e4536a84c014ff2842ba931d593b056.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659644112,
+      "latitude": 40.767534,
+      "longitude": -73.981055,
+      "lure_expiration": null,
+      "pokestop_id": "3e10e03d70a44590bdf7193e37e0c6b1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700839426,
+      "latitude": 40.770465,
+      "longitude": -73.973104,
+      "lure_expiration": null,
+      "pokestop_id": "29c95671e7af49538ceb15a20143cc92.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471568536022,
+      "latitude": 40.767825,
+      "longitude": -73.970276,
+      "lure_expiration": null,
+      "pokestop_id": "692526ac3ec7450985af49dd02999393.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703883681,
+      "latitude": 40.771621,
+      "longitude": -73.988687,
+      "lure_expiration": 1471705683681,
+      "pokestop_id": "b70bec35aa8446da865fceefcc7f0357.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471688293415,
+      "latitude": 40.774257,
+      "longitude": -73.975332,
+      "lure_expiration": null,
+      "pokestop_id": "0c3b0a0d1296431eba7a265a62825d4c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699959712,
+      "latitude": 40.769826,
+      "longitude": -73.987629,
+      "lure_expiration": null,
+      "pokestop_id": "0e61326593494042a810a014915405be.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704188133,
+      "latitude": 40.771893,
+      "longitude": -73.977229,
+      "lure_expiration": 1471705988133,
+      "pokestop_id": "0c5d7e972fd342e3ba4772100dca182e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471636951068,
+      "latitude": 40.770208,
+      "longitude": -73.984353,
+      "lure_expiration": null,
+      "pokestop_id": "cdcf60177466428b9a853db629d2b951.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703742785,
+      "latitude": 40.766033,
+      "longitude": -73.973272,
+      "lure_expiration": 1471705542785,
+      "pokestop_id": "1eaac6a73cb741ddb6ddb7dc1960057f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471688105966,
+      "latitude": 40.76733,
+      "longitude": -73.980412,
+      "lure_expiration": null,
+      "pokestop_id": "7bcad78e177d4ba0b02a6579fdb37437.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471524853378,
+      "latitude": 40.776665,
+      "longitude": -73.980882,
+      "lure_expiration": null,
+      "pokestop_id": "71090e12131c4cfa851d47637957c662.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698595255,
+      "latitude": 40.763731,
+      "longitude": -73.98278,
+      "lure_expiration": null,
+      "pokestop_id": "ab4563a34b2f4ab19304cb5b3c610e65.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471691105416,
+      "latitude": 40.769881,
+      "longitude": -73.978781,
+      "lure_expiration": null,
+      "pokestop_id": "194fc7c8165946768fed26c26376e00d.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703976701,
+      "latitude": 40.779968,
+      "longitude": -73.973542,
+      "lure_expiration": 1471705776701,
+      "pokestop_id": "cc81cac346b94f6383bf2aedf2cd504b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471665256248,
+      "latitude": 40.766644,
+      "longitude": -73.988485,
+      "lure_expiration": null,
+      "pokestop_id": "93f6bc908a1e432fa7278e5d93d8107d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471649694225,
+      "latitude": 40.77649,
+      "longitude": -73.977122,
+      "lure_expiration": null,
+      "pokestop_id": "5a06d6806f84436ca530189be1eccea5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471627304758,
+      "latitude": 40.763495,
+      "longitude": -73.976374,
+      "lure_expiration": null,
+      "pokestop_id": "0e4dc7e5ed2f4b56b48a537b27870076.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703271855,
+      "latitude": 40.770841,
+      "longitude": -73.972323,
+      "lure_expiration": 1471705071855,
+      "pokestop_id": "68a83c7ea00f4fe6b5ae7beb1a06f301.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471643249144,
+      "latitude": 40.767145,
+      "longitude": -73.98352,
+      "lure_expiration": null,
+      "pokestop_id": "36c0cccd6a3d4b4497885bfb3fc09952.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704116322,
+      "latitude": 40.773943,
+      "longitude": -73.966708,
+      "lure_expiration": 1471705916322,
+      "pokestop_id": "9899b706095343728e7d75841a6200a2.11"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703729483,
+      "latitude": 40.765169,
+      "longitude": -73.972766,
+      "lure_expiration": 1471705529483,
+      "pokestop_id": "fd03a8b6431a4009a6ce77df74f1f6ea.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702784053,
+      "latitude": 40.764555,
+      "longitude": -73.972635,
+      "lure_expiration": 1471704584053,
+      "pokestop_id": "c1659a022740499abbbeba7252cb92a7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471607132933,
+      "latitude": 40.772813,
+      "longitude": -73.964535,
+      "lure_expiration": null,
+      "pokestop_id": "260f0aad36f84e87a1668b3914aa7b33.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703514137,
+      "latitude": 40.764835,
+      "longitude": -73.978634,
+      "lure_expiration": 1471705314137,
+      "pokestop_id": "39d2cf2ce3e242608a021fa2c9717fcb.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471570387833,
+      "latitude": 40.760532,
+      "longitude": -73.968631,
+      "lure_expiration": null,
+      "pokestop_id": "31bffe33a4484884bce0e91f665057d3.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703277545,
+      "latitude": 40.766467,
+      "longitude": -73.973357,
+      "lure_expiration": 1471705077545,
+      "pokestop_id": "cb2e93c96348464fa4b807efd80bfa13.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471667402218,
+      "latitude": 40.774629,
+      "longitude": -73.969918,
+      "lure_expiration": null,
+      "pokestop_id": "862c4577bd2d4ff082acc48e385ea5f9.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471662015173,
+      "latitude": 40.763107,
+      "longitude": -73.966055,
+      "lure_expiration": null,
+      "pokestop_id": "2d1e7f45bc4942f7a25f2e3291382c03.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471671952866,
+      "latitude": 40.763714,
+      "longitude": -73.981895,
+      "lure_expiration": null,
+      "pokestop_id": "e143d7a7ce5b4884bd7808fce5d59f8e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700906629,
+      "latitude": 40.774101,
+      "longitude": -73.981391,
+      "lure_expiration": null,
+      "pokestop_id": "cd074c15bc05458f83ffc25f565bea9a.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704310359,
+      "latitude": 40.764799,
+      "longitude": -73.973064,
+      "lure_expiration": 1471706110359,
+      "pokestop_id": "5f7af7a317de4d6eabe6bf599050c269.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471666876452,
+      "latitude": 40.762852,
+      "longitude": -73.975993,
+      "lure_expiration": null,
+      "pokestop_id": "975bdc392e0e406780248f2e4c176d8f.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704070239,
+      "latitude": 40.77831,
+      "longitude": -73.974644,
+      "lure_expiration": 1471705870239,
+      "pokestop_id": "4d79997efd2c4e3aabe732f0f6158bec.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702415816,
+      "latitude": 40.764304,
+      "longitude": -73.980762,
+      "lure_expiration": null,
+      "pokestop_id": "024ae5ad53c24d75b870fa084f1399e6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471610241300,
+      "latitude": 40.771816,
+      "longitude": -73.984115,
+      "lure_expiration": null,
+      "pokestop_id": "cf4b51529c734e9aaec4db838782fb9d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471693918464,
+      "latitude": 40.762447,
+      "longitude": -73.973444,
+      "lure_expiration": null,
+      "pokestop_id": "a22a1de247254c6699fbb9db993534b6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471693585326,
+      "latitude": 40.768062,
+      "longitude": -73.98262,
+      "lure_expiration": null,
+      "pokestop_id": "da8e6183c42e47d785849c677e56b0ba.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471663068353,
+      "latitude": 40.76578,
+      "longitude": -73.967453,
+      "lure_expiration": null,
+      "pokestop_id": "8901a3f69302455d8b4a6b83a8f13165.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471612091315,
+      "latitude": 40.781231,
+      "longitude": -73.977685,
+      "lure_expiration": null,
+      "pokestop_id": "b987ced133f746d39c67c1542d0ef69a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471690599215,
+      "latitude": 40.76246,
+      "longitude": -73.980933,
+      "lure_expiration": null,
+      "pokestop_id": "3e7a6e6f45db44d3a66fba72cee4c117.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471493500186,
+      "latitude": 40.76961,
+      "longitude": -73.962916,
+      "lure_expiration": null,
+      "pokestop_id": "894511028446470899df8edd001b8603.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471658417792,
+      "latitude": 40.763478,
+      "longitude": -73.974454,
+      "lure_expiration": null,
+      "pokestop_id": "4569195cc0304e928110555c93acd670.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471672524057,
+      "latitude": 40.77725,
+      "longitude": -73.980107,
+      "lure_expiration": null,
+      "pokestop_id": "f5304a3665c54a18a6b714d3f8a25aec.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471635935664,
+      "latitude": 40.761659,
+      "longitude": -73.975184,
+      "lure_expiration": null,
+      "pokestop_id": "776e8d2c9af74062a94cfffc04f59832.12"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702916040,
+      "latitude": 40.77473,
+      "longitude": -73.981921,
+      "lure_expiration": 1471704716040,
+      "pokestop_id": "128c2c2d590d416b82b0119e6d9d5036.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704164768,
+      "latitude": 40.766147,
+      "longitude": -73.975779,
+      "lure_expiration": 1471705964768,
+      "pokestop_id": "d799a262c57a492c90b20cbf70291e22.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471691074250,
+      "latitude": 40.76183,
+      "longitude": -73.971779,
+      "lure_expiration": null,
+      "pokestop_id": "dec653f5b6524bd285306041542cdbba.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471607122679,
+      "latitude": 40.772573,
+      "longitude": -73.964713,
+      "lure_expiration": null,
+      "pokestop_id": "fb21f9c83b8b47e78a2f932e777581fe.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703459257,
+      "latitude": 40.774324,
+      "longitude": -73.970831,
+      "lure_expiration": 1471705259257,
+      "pokestop_id": "987c56fccc2b44e4bc14a3dcc4d2f82a.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668377839,
+      "latitude": 40.779521,
+      "longitude": -73.983506,
+      "lure_expiration": null,
+      "pokestop_id": "1faae6227542403e8b552691ec7cc894.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471659648143,
+      "latitude": 40.772442,
+      "longitude": -73.967417,
+      "lure_expiration": null,
+      "pokestop_id": "3fdab8cfc43b4c95b16cf2a2411f0221.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471669822061,
+      "latitude": 40.7662,
+      "longitude": -73.987158,
+      "lure_expiration": null,
+      "pokestop_id": "d65e214a69bb4f8d8037d874c12393c3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651171196,
+      "latitude": 40.773475,
+      "longitude": -73.965583,
+      "lure_expiration": null,
+      "pokestop_id": "6cb4be4a7d0849659aa9af977881f39c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471633941989,
+      "latitude": 40.768397,
+      "longitude": -73.968064,
+      "lure_expiration": null,
+      "pokestop_id": "45cad75a6980465ea820a4103dfbbef5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471541578100,
+      "latitude": 40.766633,
+      "longitude": -73.962694,
+      "lure_expiration": null,
+      "pokestop_id": "be963e38d7c1400d8ddc94cea657f9fb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471664886333,
+      "latitude": 40.777682,
+      "longitude": -73.97509,
+      "lure_expiration": null,
+      "pokestop_id": "5d0200a1a3ef43da96f8f55146e29aa0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697651682,
+      "latitude": 40.776405,
+      "longitude": -73.97606,
+      "lure_expiration": null,
+      "pokestop_id": "1080efa508fb408c98df720d6bbaca3d.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685723923,
+      "latitude": 40.780793,
+      "longitude": -73.976514,
+      "lure_expiration": null,
+      "pokestop_id": "bbde4d61e7c1420f89cd44078a9cb761.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471648707029,
+      "latitude": 40.769004,
+      "longitude": -73.968892,
+      "lure_expiration": null,
+      "pokestop_id": "d0063b7ada5249b68b525eb5fb074838.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699215041,
+      "latitude": 40.761434,
+      "longitude": -73.968916,
+      "lure_expiration": null,
+      "pokestop_id": "b0370f0f07d548e5bca89fab681fa18b.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471703343278,
+      "latitude": 40.765336,
+      "longitude": -73.97567,
+      "lure_expiration": 1471705143278,
+      "pokestop_id": "1b25313c489f4569b3d93faeabb1752e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696473531,
+      "latitude": 40.765049,
+      "longitude": -73.970799,
+      "lure_expiration": null,
+      "pokestop_id": "8578a3a313a14f80b6cc3d8785b57755.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471173398850,
+      "latitude": 40.767838,
+      "longitude": -73.96558,
+      "lure_expiration": null,
+      "pokestop_id": "af12b768c2524397975927f85799a971.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471704059028,
+      "latitude": 40.770647,
+      "longitude": -73.987923,
+      "lure_expiration": 1471705859028,
+      "pokestop_id": "d4ae69cddf704b08a05917feb9980d64.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471628514098,
+      "latitude": 40.761026,
+      "longitude": -73.971169,
+      "lure_expiration": null,
+      "pokestop_id": "cc0dbd356aab482a97e959777ac17eb5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471674859043,
+      "latitude": 40.763333,
+      "longitude": -73.968888,
+      "lure_expiration": null,
+      "pokestop_id": "21069049cac647bb9fc99d0b2e36d9ac.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471697095005,
+      "latitude": 40.767458,
+      "longitude": -73.972535,
+      "lure_expiration": null,
+      "pokestop_id": "6e3e3718d5d349dca8f53a4b2d86f7ab.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471680937311,
+      "latitude": 40.772333,
+      "longitude": -73.982391,
+      "lure_expiration": null,
+      "pokestop_id": "3a567ab123434eecb886feef27ee90c8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471538255831,
+      "latitude": 40.766715,
+      "longitude": -73.969391,
+      "lure_expiration": null,
+      "pokestop_id": "58c7cf24ed1c4b5dabb58709d28122d9.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471522442788,
+      "latitude": 40.780415,
+      "longitude": -73.981984,
+      "lure_expiration": null,
+      "pokestop_id": "2935dd06054a422980f92e0da91d8a72.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668544891,
+      "latitude": 40.763659,
+      "longitude": -73.978999,
+      "lure_expiration": null,
+      "pokestop_id": "386a1fbaf20a4d3393a26e4ca03bd9d3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701093450,
+      "latitude": 40.780767,
+      "longitude": -73.976116,
+      "lure_expiration": null,
+      "pokestop_id": "78c867e0cde0466eb6fa455cdb44e82c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471691335724,
+      "latitude": 40.765487,
+      "longitude": -73.969858,
+      "lure_expiration": null,
+      "pokestop_id": "7cae05b4a3b2419fb02462d1f3aa2d1c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701628725,
+      "latitude": 40.769851,
+      "longitude": -73.972398,
+      "lure_expiration": null,
+      "pokestop_id": "286547093c67492485cdc7f1a22ae748.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471629326898,
+      "latitude": 40.768871,
+      "longitude": -73.965133,
+      "lure_expiration": null,
+      "pokestop_id": "3ffe7ba8373e40428410cff62a019ab9.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702947291,
+      "latitude": 40.780733,
+      "longitude": -73.973666,
+      "lure_expiration": 1471704747291,
+      "pokestop_id": "547377403b494986a64271a41aa57dda.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471475575675,
+      "latitude": 40.772028,
+      "longitude": -73.965734,
+      "lure_expiration": null,
+      "pokestop_id": "270a25cdc70540e289d195ab194d1a84.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471605594525,
+      "latitude": 40.769614,
+      "longitude": -73.981487,
+      "lure_expiration": null,
+      "pokestop_id": "fe1dc460c39b4e86aed551f49078a05d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471647156490,
+      "latitude": 40.779901,
+      "longitude": -73.982404,
+      "lure_expiration": null,
+      "pokestop_id": "2f96164441214912add0fe18e80bb8f1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700178595,
+      "latitude": 40.774089,
+      "longitude": -73.973805,
+      "lure_expiration": null,
+      "pokestop_id": "e896c2c4b5d0494ebe9dbcecd96e749b.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698694836,
+      "latitude": 40.773397,
+      "longitude": -73.971117,
+      "lure_expiration": null,
+      "pokestop_id": "6ff22ed307c0428aad1d66d7c1c758fa.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651287209,
+      "latitude": 40.777749,
+      "longitude": -73.983985,
+      "lure_expiration": null,
+      "pokestop_id": "d417c8e03f5449959c12e46cdf227cf8.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471583557692,
+      "latitude": 40.777328,
+      "longitude": -73.978339,
+      "lure_expiration": null,
+      "pokestop_id": "cce3814a712a4f598d59308ba12d9cc6.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651725687,
+      "latitude": 40.765833,
+      "longitude": -73.979444,
+      "lure_expiration": null,
+      "pokestop_id": "90aedf2a42434e83baa2eec5ac1927cf.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471622101425,
+      "latitude": 40.776851,
+      "longitude": -73.977765,
+      "lure_expiration": null,
+      "pokestop_id": "c7ad03bd382c4aa1a4faab0bcdc656c0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471568770129,
+      "latitude": 40.764869,
+      "longitude": -73.966884,
+      "lure_expiration": null,
+      "pokestop_id": "88b9da0f0b1f45158ba00ee3739337b2.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471570187841,
+      "latitude": 40.766004,
+      "longitude": -73.965276,
+      "lure_expiration": null,
+      "pokestop_id": "841d7f212cb246a590a3814244e1c077.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471660227495,
+      "latitude": 40.772927,
+      "longitude": -73.967336,
+      "lure_expiration": null,
+      "pokestop_id": "4899f0a0d4ab4da7a1b5d87110f0fd7d.11"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471639663756,
+      "latitude": 40.768137,
+      "longitude": -73.96998,
+      "lure_expiration": null,
+      "pokestop_id": "3e90857cd8c0452489ae349f2f8e6623.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471658686092,
+      "latitude": 40.779844,
+      "longitude": -73.981442,
+      "lure_expiration": null,
+      "pokestop_id": "3ed6582bb4b346699972acfcb3da61f5.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471624651206,
+      "latitude": 40.763639,
+      "longitude": -73.967423,
+      "lure_expiration": null,
+      "pokestop_id": "2343e5c308894c12b44bf0abd868ef9c.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471649525011,
+      "latitude": 40.771169,
+      "longitude": -73.979957,
+      "lure_expiration": null,
+      "pokestop_id": "f00bbb2560674ef7a1340804f0f62588.16"
+    },
+    {
+      "active_fort_modifier": "[501]",
+      "enabled": true,
+      "last_modified": 1471702645604,
+      "latitude": 40.765532,
+      "longitude": -73.972222,
+      "lure_expiration": 1471704445604,
+      "pokestop_id": "a96027b3ac6c4047a4627fc6bcaae1a7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471676963390,
+      "latitude": 40.765828,
+      "longitude": -73.980368,
+      "lure_expiration": null,
+      "pokestop_id": "3a8c93b687844de49cebda67802e068d.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700728237,
+      "latitude": 40.775272,
+      "longitude": -73.968873,
+      "lure_expiration": null,
+      "pokestop_id": "98712be696e8421e99d3d0538be5ffe7.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701445777,
+      "latitude": 40.764264,
+      "longitude": -73.974023,
+      "lure_expiration": null,
+      "pokestop_id": "6bae4afe323f49d09d6081ce78e5e982.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471671082864,
+      "latitude": 40.769133,
+      "longitude": -73.979077,
+      "lure_expiration": null,
+      "pokestop_id": "7083f513501c4ef6b12beeba6809b286.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699966179,
+      "latitude": 40.773025,
+      "longitude": -73.974223,
+      "lure_expiration": null,
+      "pokestop_id": "431dbc84c4f74411a5127cf1902cd2db.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471651191294,
+      "latitude": 40.773423,
+      "longitude": -73.96507,
+      "lure_expiration": null,
+      "pokestop_id": "3d7038434a5647f38a718d13a3c75fc1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471661074423,
+      "latitude": 40.766208,
+      "longitude": -73.983512,
+      "lure_expiration": null,
+      "pokestop_id": "bd97f4246ee34353959f53c5c3a869f4.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701997527,
+      "latitude": 40.772909,
+      "longitude": -73.974634,
+      "lure_expiration": null,
+      "pokestop_id": "d489999789be4d0a8b92b8ce2326f527.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471674761332,
+      "latitude": 40.780866,
+      "longitude": -73.981611,
+      "lure_expiration": null,
+      "pokestop_id": "9e4add30029d479a88bb5ce138609dcf.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471519047344,
+      "latitude": 40.767995,
+      "longitude": -73.962615,
+      "lure_expiration": null,
+      "pokestop_id": "bb2bdacda31e4462a39571c8ab56df7a.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471675485820,
+      "latitude": 40.770109,
+      "longitude": -73.971144,
+      "lure_expiration": null,
+      "pokestop_id": "36c01693e8fd44578d398d699e098460.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471490744751,
+      "latitude": 40.768827,
+      "longitude": -73.966579,
+      "lure_expiration": null,
+      "pokestop_id": "41da03cc49c046889140188d84c81763.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700936858,
+      "latitude": 40.762976,
+      "longitude": -73.979723,
+      "lure_expiration": null,
+      "pokestop_id": "f75419765f154cddb3fac33029ea38d2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471698730859,
+      "latitude": 40.779335,
+      "longitude": -73.973875,
+      "lure_expiration": null,
+      "pokestop_id": "22989ff9cde148f2a771513554f066d0.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471668118445,
+      "latitude": 40.76365,
+      "longitude": -73.976891,
+      "lure_expiration": null,
+      "pokestop_id": "0e88e9b371b846bfbbb20d6215b00171.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471589394665,
+      "latitude": 40.772762,
+      "longitude": -73.978706,
+      "lure_expiration": null,
+      "pokestop_id": "c2a6932a34d64fd0ac20a3026da3349e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701648829,
+      "latitude": 40.77957,
+      "longitude": -73.969022,
+      "lure_expiration": null,
+      "pokestop_id": "4d339d398247407187e301d48939d308.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471688855219,
+      "latitude": 40.763647,
+      "longitude": -73.968978,
+      "lure_expiration": null,
+      "pokestop_id": "5f3dd72d14564d06b776a614c7722643.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471699572706,
+      "latitude": 40.769321,
+      "longitude": -73.974903,
+      "lure_expiration": null,
+      "pokestop_id": "05e2ef37cb4a4be7aa44227224f7280e.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701912260,
+      "latitude": 40.775395,
+      "longitude": -73.967277,
+      "lure_expiration": null,
+      "pokestop_id": "ee823f451b264983aafa84bb01d126c2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702474721,
+      "latitude": 40.769458,
+      "longitude": -73.978332,
+      "lure_expiration": null,
+      "pokestop_id": "4680cad5804141f7bc413d303d3f7a62.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471701660530,
+      "latitude": 40.775807,
+      "longitude": -73.971829,
+      "lure_expiration": null,
+      "pokestop_id": "01557979211f458c9e8f8d0f0f494a03.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471642903898,
+      "latitude": 40.771232,
+      "longitude": -73.985796,
+      "lure_expiration": null,
+      "pokestop_id": "f6758bfa2fc34b04a44b1fa5158889cb.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471662011277,
+      "latitude": 40.777052,
+      "longitude": -73.96421,
+      "lure_expiration": null,
+      "pokestop_id": "37b485337a4b4158b35f4e765db9c9e2.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471685868632,
+      "latitude": 40.773284,
+      "longitude": -73.98404,
+      "lure_expiration": null,
+      "pokestop_id": "b72f8c18db1c44edb61f4c359b02d97f.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471582295577,
+      "latitude": 40.770764,
+      "longitude": -73.964934,
+      "lure_expiration": null,
+      "pokestop_id": "f75fe632f2924610ac99fccc1b8f2394.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695499515,
+      "latitude": 40.762616,
+      "longitude": -73.978694,
+      "lure_expiration": null,
+      "pokestop_id": "09af8640435e4d77838a83c055efe0a4.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700169704,
+      "latitude": 40.776453,
+      "longitude": -73.965608,
+      "lure_expiration": null,
+      "pokestop_id": "6122507f845847638c9659764fda6941.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471702364758,
+      "latitude": 40.768598,
+      "longitude": -73.970887,
+      "lure_expiration": null,
+      "pokestop_id": "0fd64862cbe94fed815dc3707d2eb595.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471700180284,
+      "latitude": 40.775964,
+      "longitude": -73.982433,
+      "lure_expiration": null,
+      "pokestop_id": "89b366c5f69a4b44aba86607450451d1.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471696763911,
+      "latitude": 40.769297,
+      "longitude": -73.969488,
+      "lure_expiration": null,
+      "pokestop_id": "cd266ebf35bc4b10be18075898001142.12"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471695552896,
+      "latitude": 40.769496,
+      "longitude": -73.979411,
+      "lure_expiration": null,
+      "pokestop_id": "a7a48e7ffb8145dc8ab6215176ea7b34.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471686834677,
+      "latitude": 40.772095,
+      "longitude": -73.975323,
+      "lure_expiration": null,
+      "pokestop_id": "3ec6213cf7eb4a358e7db08a24126fd3.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471580167096,
+      "latitude": 40.772532,
+      "longitude": -73.981995,
+      "lure_expiration": null,
+      "pokestop_id": "3af2de41e11e4085b482d13c1b72c5fa.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471676513519,
+      "latitude": 40.769651,
+      "longitude": -73.973135,
+      "lure_expiration": null,
+      "pokestop_id": "ea4a2f7adba14c86be4badcf33b5f169.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471674946355,
+      "latitude": 40.766114,
+      "longitude": -73.967464,
+      "lure_expiration": null,
+      "pokestop_id": "e1a7814df7f1499fb3f580c3775f244b.16"
+    },
+    {
+      "active_fort_modifier": null,
+      "enabled": true,
+      "last_modified": 1471637155456,
+      "latitude": 40.769583,
+      "longitude": -73.983468,
+      "lure_expiration": null,
+      "pokestop_id": "0ea8455f739b4b3cb17df29eeb7ade44.16"
+    }
+  ]
+}

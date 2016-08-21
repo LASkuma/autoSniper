@@ -3,6 +3,7 @@ import request from 'request'
 import minimist from 'minimist'
 import Farmer from './Farmer'
 import credentials from './credentials.json'
+import filter from './filter.json'
 
 const { username, password, provider } = credentials
 
@@ -14,13 +15,12 @@ if (typeof(argv.l) !== "string") {
 
 const ballNames = ["Poke Ball", "Great Ball", "Ultra ball"]
 const pokeballFlag = argv.b || 1
-let pokeballType = argv.b || 1
-console.log("Using %s", ballNames[pokeballType - 1])
+console.log("Using %s", ballNames[pokeballFlag - 1])
 
 const locationString = argv.l
 let targetIds = {}
 
-const farmer = new Farmer(334, 7500)
+const farmer = new Farmer(1000, 7500, pokeballFlag)
 farmer.login(username, password, locationString, provider)
 
 setInterval(() => {
@@ -41,8 +41,13 @@ setInterval(() => {
       })
       newTargets = newTargets.filter(target => {
         const isFresh = targetIds[target.id] === undefined
-        targetIds[target.id] = true
-        return isFresh
+        if (isFresh) {
+          targetIds[target.id] = true
+          if (filter[target.indexID]) {
+            return true
+          }
+        }
+        return false
       })
       farmer.addNewTargets(newTargets)
 
